@@ -1,0 +1,254 @@
+SKRHYB (Wale) <> Tecaudex (Sarmad)
+Fri, Jul 4, 2025
+
+0:00 - Wale Agbaje
+Hello. Hello. How are you? I'm good. How are you? I'm doing well. Okay, good. Good morning. Good morning to you.
+
+0:32 - Sarmad Mansoor
+I'm just waiting for a reach to join and then we can start.
+
+0:38 - Wale Agbaje
+Okay. No worries.
+
+0:39 - Sarmad Mansoor
+How have you been? Everything's good on our end. Getting a lot of projects more than anticipated. So, you know, we have to scale accordingly as well. A good problem to have.
+
+0:53 - Wale Agbaje
+Yeah, that's good. That's good. Sorry, just while we're waiting. I'm just going to be on this PC here.
+
+1:09 - Unidentified Speaker
+So, okay.
+
+1:24 - Wale Agbaje
+Just before Archie joins, what I'm looking to do is to do a two-part delivery, right? Once we discuss today, I'm looking to do a design, an end-to-end design by you guys, and then we'll review the design and the feasibility of that, and then we'll go into deployment, because I'd really, really like to understand the end-to-end workflow, all the parts that are available, because it's, you know, from the requirements, you know, you guys sent a Word document, and I looked at the Word document, and I figured it wouldn't capture enough of what we're trying to build, right, which is why I started The word document that we send, it's just a template for people who are looking to build MVPs and people who don't even know how to document their product.
+
+2:33 - Sarmad Mansoor
+So if you do know how to document your product, that's good for us. And the more well documented the product, the better for us. So you're free to choose whatever template or whatever structure you want to choose to document your product, that's fine. Okay, good.
+
+2:55 - Wale Agbaje
+All right, should we jump in to the place? Hi, Arjeet, thanks for joining.
+
+3:02 - Areej Shamshad
+Hi, Vin, how are you doing?
+
+3:05 - Areej Shamshad
+Yeah, I'm good, thank you.
+
+3:08 - Wale Agbaje
+I'm good.
+
+3:09 - Sarmad Mansoor
+All right, Arjeet, you can start with the proposal and I'll jump in wherever needed.
+
+3:17 - Areej Shamshad
+Okay, I'll share my screen just a second.
+
+3:25 - Sarmad Mansoor
+Can you see my screen?
+
+3:30 - Areej Shamshad
+Yes, it's just coming up now.
+
+3:36 - Wale Agbaje
+Okay, that's great.
+
+3:39 - Areej Shamshad
+So Will, when you gave other requirement uh sheet we actually I gave that to my uh like a development team and they gave me this estimates of your project basically so after that I have basically uh made a proposal for you which will cover all the features that you have mentioned and uh this will cover also the estimates uh for the whole project and the payment plan as well yeah so I'll just start with this yeah please go on you see the height you know If that sharing, stop sharing, there's a hide icon there.
+
+4:16 - Wale Agbaje
+If you could click that so that... Okay, okay, okay, sure, sure. Yeah, thank you.
+
+4:22 - Areej Shamshad
+Oh, yeah, thank you.
+
+4:23 - Areej Shamshad
+Thanks for this. No worries, no worries. So, this is the introduction about your app, basically. So, as you mentioned, your app is about first-service subscription MVP that empowers consumers to discover, book, and manage tiered services. That is also, like I have mentioned here as well, Just a second. Yeah, this will be the key service of your project. Like I have done basically a project overview of your MVP. That is basically the project will deliver mobile first service subscription and maybe that seamlessly connects consumer with tiered service provider. And the core services of your like app will be service discovery and booking and subscription management that will cover the plans, usage tracking and you know, alerts as well. And it also has the service of dynamic tools in it and real-time engagement and admin oversight. That was also like three part of the website for the service and for the provider and for the admin as well. We will have the centralized dashboard for analytics.
+
+5:27 - Wale Agbaje
+Yeah, so there's a piece missing here that is important to have the application work. So there's a section in there where I did a dashboard for service providers, right? So the dashboard is meant to help them. So it's separate from the admin dashboard. So it's the- Yeah, yeah. We do have that as well.
+
+5:50 - Areej Shamshad
+Like I'll show you after in the milestone as well. Okay, okay. Yeah, yeah. Yeah, you can also see this here. We have this close, we have done the, these are the like, core features you can say this will include admin dashboard, CMS analytics and moderation that will part of that is a part of you saying actually admin dashboard.
+
+6:15 - Wale Agbaje
+Sorry so that's not part of what I'm saying so it's not the admin dashboard right so this is a user dashboard for service providers right so the dashboard is what we understand that's also included in the proposal you're looking for this dashboard which will become the display to the consumers, right? Yeah, which would be which is going to be displayed to the consumers and the service providers, right? So the service providers will need a dashboard of the number of subscriptions, how much they're making.
+
+6:48 - Sarmad Mansoor
+Yeah, yeah, yeah. Exactly.
+
+6:50 - Sarmad Mansoor
+This is this is added here. However, we were facing one confusion. I was I was actually assuming that it obviously makes sense that you would want the business dashboard to have a very beautiful custom UI. But what about the admin panel? The admin panel is supposed to be for internal use. Do you want that to have a custom UI as well?
+
+7:16 - Wale Agbaje
+No. So the admin dashboard, which is internal, really shouldn't be custom. I think we can use a basic dashboard that has some not extensive customization, but information that the admin we'll need a number of subscribers, a number of users, the types of services, those are basic.
+
+7:34 - Sarmad Mansoor
+Yeah, we do it exactly like this, but we had a confusion and Areej was of the opinion that you also want that to be customized as well.
+
+7:45 - Wale Agbaje
+Yeah. So when we spoke to Areej, I wasn't sure. So I gave her both options. So that's why I understand why it was displayed like this. But from Thinking about it, the admin can have a basic dashboard with, you know, sub-users, but the business dashboard has to be customized because it provides the stats for users to be able to view their entries and stuff, right?
+
+8:13 - Sarmad Mansoor
+Yeah, I would also recommend to go with this approach since this makes much more sense.
+
+8:20 - Areej Shamshad
+Yeah, okay, cool.
+
+8:21 - Areej Shamshad
+Okay, so actually this proposal includes the admin because I have like discussed with you as well, and you were not clear about this. So I thought maybe we can discuss in the meeting as well, like with approach, whatever approach you want to go with. So for now, this is to include the custom UI, UI for the admin dashboard as well. Okay. Yeah. So this is like a number of hours in. Okay.
+
+8:45 - Wale Agbaje
+Now I see the top. So they, the number of hours. Yeah. Yeah.
+
+8:53 - Areej Shamshad
+divided in a section for UI UX design and like the UI's design total hours will be 113 hours and includes all the features like you mentioned business dashboard and win panel consumer app for the like subscription and booking you just mentioned as well and it does also include all the localization and social network program and it has like like I have added all the details or like key features that will be included in the like that is like very concise form of it So yeah, this does have like 113 hours of total UI design. And after that, I have also included another section for mobile app that will be done on Flutter. So in Flutter, we'll be doing, and this also includes all the features, like biometric login, and also have consumer features for booking and reviews, gateway integration, and reference programs for the Word dashboard, features, all of the features and the sub features required for your product's development.
+
+9:57 - Sarmad Mansoor
+All modules of it, the UI UX, the backend and the mobile application development, all of these are added in project estimates which includes insurance estimates as well and the admin panel part are separate. We will adjust the admin panel hours, it will they will be reduced since we added custom admin panel, an admin panel with a custom design. So the hours for the admin panel will be significantly reduced and the price will go down. But yeah, other than that, these are the estimates which are carefully curated by our technical team.
+
+10:40 - Wale Agbaje
+Okay, good. All right. So I think we will have to have a discussion about the total hours after the admin panel. Has been done.
+
+10:50 - Sarmad Mansoor
+And secondly, can you scroll down? So for your better clarity, we have also divided it into milestones. So what we typically do with all of our clients is that we divide their products development into two weeks milestones, which can kind of be simulated like sprints as well. So in one milestone, the total hours that are distributed are somewhere between 60 to 75 hours. And the total time, professional time is allocated as 80 hours. So the milestone duration is two weeks. So what you'll do is you'll get one milestone delivered in each of these two weeks. And we have divided the complete project into multiple milestones. I think there are a total 12 or 13 milestones. The payment structure would be like this, that you would need to pay an initial advance payment and then you would pay on a monthly basis for two milestones. So once milestone one and two are delivered to you, you will pay a certain amount and then on and on. It will create a lot of transparency between you and us and would be easy to manage the development's progress. And secondly, Okay, so a couple of things.
+
+12:18 - Wale Agbaje
+My thought process is that the admin is that the admin is that the admin application and the user application will be different, right? The app that the admin are going to use to upload their services will be different from the app that users will download to search for services and manage services and search for subscriptions, right? Has that been factored in this?
+
+13:01 - Areej Shamshad
+Yes, as you can see it here for the admin panel, it's for the user dashboard using Can you scroll up?
+
+13:11 - Sarmad Mansoor
+Because I'm not sure if that's factored in or not. For the mobile app? No, I think this proposal is for one super app, which will contain different logins. And all of the flows will be just in one app. The user can simply log in, and they will be shown different set of screens. If you want it to be distributed into three different applications, then we would have to adjust the estimates. You can expect the estimates to increase somewhere between 5% to 10% since more screens will have to be developed for each and every single application. Otherwise, if it's one application, some of the screens will be shared across all of the applications as same. And additionally, there will be time taken by the team for each of the deployments of these applications as well. And you would also have to pay additionally, I think, $100 for each application, since you know, that's the cost for according to the Apple and Google Play Store.
+
+14:21 - Wale Agbaje
+Okay. Right. Yeah. So let me have a think about this because... I would suggest to go with this approach.
+
+14:29 - Sarmad Mansoor
+This is a better approach, to be honest. Had to have to different applications.
+
+14:35 - Unidentified Speaker
+OK.
+
+14:35 - Unidentified Speaker
+All right.
+
+14:36 - Wale Agbaje
+Let me have a think about this, and then I'll come back to you. So from a user standpoint, and of course, this is our first engagement, I'd like some adjustments in the hourly rate. And also, I would like, if you scroll down, please, Arjit. To the bottom of the page. To the bottom.
+
+15:09 - Wale Agbaje
+Just a second.
+
+15:11 - Unidentified Speaker
+Yeah, sure.
+
+15:13 - Wale Agbaje
+After maintenance, it's the maintenance section that I want to look at.
+
+15:22 - Unidentified Speaker
+OK.
+
+15:22 - Unidentified Speaker
+Yeah.
+
+15:23 - Unidentified Speaker
+OK.
+
+15:24 - Wale Agbaje
+And also, I'd really also like the maintenance maintenance period to be extended to more than three months, maybe six months. If that's something that you'll accept to do. So two things, really. So I want to take a very, very separate approach to these developments. So you know that our relationship or engagement started at the Web Summit, right? I'd really like to go back to the Web Summit with a product that's ready to go to the market, right? And I'd like to scream at the top of my lungs that this is a product and the partner delivery of that product is your organization. I think that's a very, very good selling point for both of us if you're going back to the next Web Summit. Right. So that's the first thing. The second thing is in terms of delivery, I see how long because it doesn't say how long the delivery is going to take. And I see the Web Summit is in February.
+
+16:53 - Sarmad Mansoor
+The product will take six to seven months.
+
+16:57 - Unidentified Speaker
+Yeah.
+
+16:58 - Wale Agbaje
+So if it's going to take six to seven months, that means it's not going to hit the Web Summit because we're in July. Which Web Summit are you aiming to? The Qatar Web Summit.
+
+17:14 - Sarmad Mansoor
+If we start immediately on this, you can capture the Web Summit. Answering to your concerns, to be very transparent and honest, we have updated our company-wide pricing to $30 per hour effective from 1st of July. Since your lead was going on previously, we quoted you the previous rate of $25 per hour. And this is because we want to filter out some clients as you know, like I told you, we do have a lot of projects on our plate right now and we want to not compromise on the quality. Secondly, as for the fact for maintenance, we typically give a maintenance of one month for free. Areej has already given you three months of maintenance. I don't know why I think you requested it first, but normally the uh, sales reps are allowed to only give a maintenance of one month. So what we can do is we can extend it a one, one month more. Uh, we can give it to you for like four months. And, uh, I want, uh, change the hourly rate in this case, since, you know, we have already updated our hourly rate and, uh, this is something which is, uh, you could say already discounted. What I can do is I can give you the quality assurance hours as complimentary. And additionally, once we update all of this, once you make the changes. So you have asked for two changes, right? One is admin panel custom UI to be removed. And secondly, you want it in three different applications, not just one.
+
+19:07 - Wale Agbaje
+No. So like you said, I think I'll go with your proposal. Have it all in one, right?
+
+19:16 - Sarmad Mansoor
+How about we have a discussion with our technical team and ask them about what they recommend?
+
+19:24 - Wale Agbaje
+Yeah, so let's do that. So if you have a discussion with your development team, and if you send me this document in Word, please, I just want to have a Read through just before anything and you I appreciate it looks good. It has everything, but I just want to make sure that I want to compare it to the requirements documents. I want to make sure that everything in the requirements, not everything, but with the understanding that this requirements documents, right, this proposal document complements the requirements document that I sent. I wouldn't want anything to be missed in that requirements document because I know it's of the requirements document that you built this. If that makes sense.
+
+20:13 - Sarmad Mansoor
+And additionally, since I want to regard you in the fact that we met in the Qatar Web Summit as well, we'll have a discussion with the technical team. Areej, you can share the new proposal with me once it's done. And the team, let's say, suggests that we go with separate applications instead of one complete application. There will be definitely an increase of five to 10% in the estimates. So what I will do is I will try to, you know, make sure that, you know, you don't get charged for that five to 10%.
+
+20:56 - Wale Agbaje
+Okay, that's fine. I really appreciate that. Yeah, so that's fine. If you should, if you update the proposal, right, and then send it to me, and then I'll review it over the weekend and then come back to you. But as discussed before, one thing that I really want to do is do the project in two phases. And if everything goes well, we can start as early as next week. If your team, if you confirm that your team is fully mobilized, right?
+
+21:33 - Sarmad Mansoor
+Next week wouldn't be possible. We would need like seven to 10 days to allocate a team for this project. Like I told you, we are very crammed up with projects right now. But whatever timeline we give you, we will make sure that the project is done before that. And if you're aiming to launch in the Qatar Web Summit, I will ask the team to do the calculations. But we'll try to make sure that the project is launched at least one to two months prior to that so that if we face any bugs after that, we face them beforehand and fix them beforehand so that, you know, once we go to the Qatar Web Summit, we go bug free.
+
+22:15 - Wale Agbaje
+Okay, good. That's fine. But what I was talking to, talking about specifically, of course, you have to mobilize your team to get this started is I really, really, really need end to end design of this. Of course, this is going to be off of the back of the discussion that RAG is going to have. And I'm happy to pay for that design. But it's important that from a user standpoint and from a logic standpoint and from a workflow standpoint, everything is considered. And I'll give you an example. We want to create an app that is going to be seamless for users, to upload their products, like the service providers, that's going to be easy for them to upload their products, fill in their business details. So we're considering things like using Google API to be able to do that. If there are existing businesses that are on Google, somebody can use the API that we're going to implement in Google to import the information on Google so they don't have to do all of that stuff. And then once that's done, we want a process whereby updating their products. Say they want to create five services, for instance. The process of creating those five services and the process of uploading pictures and creating the tiers and then publishing their services for users to be to see has to be absolutely, absolutely out of this world. And this is something that I'm going to be trusting your designers and your team to be able to do.
+
+24:11 - Sarmad Mansoor
+You remember when we first met in Web Summit, I actually was boasting not about our development services, but our design services. So, you know, our design team is one of the strongest teams that we have.
+
+24:25 - Wale Agbaje
+And we do have a lot of testimonials from big giants as a matter of fact who are actually praising about our UIUX team so you don't have to worry about that we have an amazing design team yeah yeah so okay that that's fine so that's one of the key things that I want to do right break the project into two right do the design end to end design make sure that it makes sense for us and also do it in such It's fluid enough that if you want to add any microservices or add any small, small features, we can do that. But the design has to be in such a way that the users have an effortless... I understand, Will.
+
+25:11 - Sarmad Mansoor
+Once you do have a meeting with our design lead as well, if you want, before starting off the project, we can arrange a meeting with our design lead as well. You can share your vision and And here is feedback on how he'll be taking the product from there. That can be arranged, but I can assure you, you don't have to worry about it. It's going to be really good.
+
+25:36 - Unidentified Speaker
+Okay, good.
+
+25:37 - Wale Agbaje
+All right. So I guess in terms of next steps...
+
+25:40 - Sarmad Mansoor
+Yeah, I was coming on to it. So in terms of next steps, what we'll be doing is right after this call, Areej, you'll be sharing this proposal with Wale. And additionally, what we'll be doing is we be updating this proposal. First of all, you will give us a confirmation that all of the requirements are met. If something is left, then we will factor that in the proposal as well. And in addition to that, we will be updating the admin panel hours since it has custom UI in it. And we will be discussing with our technical team about what's better for your product. Should it be separate modules for separate stakeholders, or should we just like one super app. And lastly, we will be giving you a free complimentary QA for this application. Okay. Yeah.
+
+26:31 - Wale Agbaje
+So if you include all of those things and send them to me with the revised Tricin, revised requirements, and if you can include the clause in there to say the documents that I sent before, right, everything is included in the proposal because I don't expect you to you know dump everything in that document in the proposal document but if you could include that um that would be great um you know so definitely yes all right uh is there anything else to discuss um no thank first of all thank you for your time um and I thank you uh for the engagements I apologize this has taken a while because I needed to make sure that those requirements when I get it.
+
+27:18 - Sarmad Mansoor
+I think it's not bad.
+
+27:20 - Sarmad Mansoor
+You should take as much time as you want and you should actually be clear about what you want. But one thing to be kept in mind is that, you know, you should also not waste too much time in the research process so that, you know, there are other competitions out there because, you know, as we speak, someone might have this idea and someone is getting this idea. Developed so it's about who goes to the market first and who goes to the market plan.
+
+27:52 - Wale Agbaje
+Yeah just one just one additional ask for you Samart and this is a task that I want you and RDG to do for me. So I've been doing some market validation of this in UK of this product in UK and it looks very very positive. I'm looking at three other the markets, right? Qatar, United Arab Emirates and Saudi Arabia, right? Yeah. So if you could help me over the next few days or into next week, if you could help me do a market validation for this.
+
+28:32 - Sarmad Mansoor
+I don't think we would be able to help you exactly like you intended to be. But once we start. So what our design team does is that they immediately before starting anything, they do the research on the product, they search for any direct indirect competitors, see what they are doing, what they're doing good, what they're not doing good. So they'll share all of their research with you. And you know, once we start that process, you will get a much more clarity and visibility on your idea as well. And that will shape up the product.
+
+29:08 - Wale Agbaje
+Okay, that's exactly what I was looking for. Okay. Yeah. All right. Good. I'm looking forward to that as well. Areej, if you could also include that in the, in the proposal, right, that would be, that'd be great.
+
+29:22 - Unidentified Speaker
+Yeah.
+
+29:22 - Wale Agbaje
+Okay, good. So I'll keep an eye out for, for the documents and as soon as I have it, I will come back. Then please let me know once I come back to you, we'll then know how we're going to the milestone payments and how we're going to do the escrow and the milestones and all of that, right?
+
+29:45 - Unidentified Speaker
+Yeah, definitely.
+
+29:45 - Wale Agbaje
+Yeah, if they can constrain it in such a way that we finish it in a period that gives us at least two months.
+
+29:55 - Sarmad Mansoor
+That is exactly what we do, yeah. Yeah.
+
+29:58 - Sarmad Mansoor
+Okay, cool.
+
+29:59 - Wale Agbaje
+All right.
+
+30:00 - Unidentified Speaker
+Have a great day. All right. Thanks.
+
+30:02 - Wale Agbaje
+Thanks both. Appreciate it. Thanks a lot. Thanks guys, bye.

@@ -1,0 +1,185 @@
+SKRHYB App Development Kickoff Meeting
+Mon, Oct 13, 2025
+
+1:00 - Unidentified Speaker
+Hello Aram.
+
+1:08 - Arham Anwaar
+Hello, good morning. Good morning, how are you? I'm good, thank you.
+
+1:16 - Arham Anwaar
+yeah let's actually start also my bad I think we scheduled a meeting previously as well and I wasn't able to make it to that meeting so yeah no worries no worries at least um we've been able to get this follow-up session so yeah all right so I did go over uh the scribe designs that we've made so far just to get like a rough idea of the application uh but I would love to hear, you know, the vision and idea from you as well. And if you could kind of walk me through the designs yourself, that would be great. And yeah, like, let's, after that, we can kind of, you know, dig deeper into, like, what kind of differences you have, if you have any for the technologies that you want us to use, and how you want us to proceed with things and all.
+
+2:12 - Wale Agbaje
+Because I don't have it up right now.
+
+2:14 - Arham Anwaar
+Yeah, I do. I can share my screen.
+
+2:25 - Arham Anwaar
+Can you let me know if you can see my screen share? Yeah, I can see it.
+
+2:30 - Wale Agbaje
+Just if you zoom in a little bit, that would be great. Yeah, sure. This is the business flow that's opened up right now.
+
+2:36 - Arham Anwaar
+And it's the onboarding section. OK, good.
+
+2:42 - Wale Agbaje
+All right, so let me give you a brief background to what we're trying to do. So Scribe is an all-in-one subscription platform for business owners. And the idea is that we're trying to help businesses scale. We're trying to get them to realize the potential of real um, revenue via subscription. So basically what we're doing is we're creating a platform. We're creating scribe so that businesses can register, right? They can put their products on and then after the products are in there, right, they can start marketing. So that's, they have a single platform for their products, a single platform to manage their subscribers and a single platform to track everything that they do. Okay, so which is why we've got the dashboard, which is why we've got the customer dashboard. So it's going to have a booking system where users are going to be able to book services. It's going to have pretty much, you know, everything that they need from a user standpoint or from a business standpoint to manage their business.
+
+4:08 - Wale Agbaje
+So basically think of yourself as a business, right? Or think of yourself as a lead developer, right? And then you have customers like myself. Now, basically what you're doing is you're presenting me this platform so that I can subscribe to your, um, to your products.
+
+4:33 - Wale Agbaje
+All to your service. And basically, what that means is that I'll be able to sign up.
+
+4:40 - Wale Agbaje
+What that means is that I'll be able to sign up, right? I'll be able to see your services, right? I'll be able to subscribe. I'll be able to get special discounts. I'll be able to do pretty much everything that I want while still enjoying your service. Oh, OK.
+
+5:00 - Arham Anwaar
+Also, a lot of the information on this page, on the dashboard page, sorry, analytics page is coming up from Google Analytics, right? This is from their Google business that they've set up. No, no, no, no.
+
+5:14 - Wale Agbaje
+So the analytics is going to come from the stats, from the user stats, right? Oh, okay.
+
+5:23 - Arham Anwaar
+So this is based on the descriptions that they have and all. Yeah, this is going to be based on the used business that they have.
+
+5:35 - Wale Agbaje
+The only thing that's going to come from, um, Google is two things, right? The first thing is we're going to have an API that is going to, when, when businesses are going to sign up rather than signing up completely, right. The Google API is going to look for their business. All they have to do is put the business name. And then it's going to pull certain information from the business, right? All right.
+
+6:05 - Arham Anwaar
+You can manage your services over here. I don't specifically see a UI or a place where, uh, the business owner can set a price for the service. That's what it is.
+
+6:18 - Wale Agbaje
+It is there as well. So if you, yeah, it's there. Oh yeah. It's here. It's here. My bad.
+
+6:25 - Arham Anwaar
+Yeah, so have you been discussing with the designers whilst this is going on?
+
+6:29 - Wale Agbaje
+Because my understanding was that you've been sent this, and you've had a discussion with the designers so that you have a good process.
+
+6:40 - Arham Anwaar
+So we do have a discussion with the designers, but not before I have a discussion with you. So I want to get on a call with you first. And obviously, we will have a call with the designers after this before we start on things so that you know we gain an understanding of the UX for things like how they wanted us to build this out and all but obviously it's better to always hear out the idea from the person whose vision it was okay okay got it I so okay as I get the rough gist I'm just gonna go uh through the you know user flow as well just to see uh it's it is it is what I'm expecting thing over here as well.
+
+7:27 - Wale Agbaje
+So on the user flow perspective, this is the person that was looking for everyday services, right? So this is me, this is you. Um, you know, it could be your barber. It could be your house cleaner. It could be your gardener. It could be a landscaper. It could be anybody really that are looking for businesses that are looking for services. Now they'll come on to scribe application. So there'll be two parts to it. There'll be a business application and then there'll be a user application, right? So they're not going to be on the same platform, right?
+
+8:06 - Wale Agbaje
+Okay, good. Now imagine me coming onto this platform, right? And then I'm looking for a gardener, right? All I have to do is go register, easily register, and then go to, Go to do a search right or Go to the services, right? It's gonna give me The gardeners information that are around me Okay, okay Yeah, that way I can check the price I could compare the price and then I could sign up. I will see the reviews I Could see pretty much everything Okay, perfect.
+
+8:45 - Arham Anwaar
+So for the review since I don't see a way for users to create a review themselves. I'm assuming these reviews are coming up from Google. No, no, no.
+
+8:55 - Wale Agbaje
+The reviews are coming from, um, the business.
+
+9:02 - Wale Agbaje
+What I want to do also is if you could add a comment in here, please, that users should be able to import their reviews from bit from Google, right?
+
+9:18 - Wale Agbaje
+So, because when you start, right, you'll have zero reviews, right? But if you can import your reviews from Google, that'd be fantastic. That way your page is not left blank.
+
+9:35 - Arham Anwaar
+And then users can specifically, you know, subscribe to the services that. All right. So my question for this is, uh, would be, or is it possible to have like one time payments in there as service as well? Or is it going to options for one time payments here?
+
+9:55 - Wale Agbaje
+So we have one zoom, zoom, zoom in. That page right to the left, left, left. That's here. It's one time payments and it's recurring.
+
+10:10 - Wale Agbaje
+So what is recurring, right? That means you want this service maybe every week or every month, right?
+
+10:24 - Arham Anwaar
+I have like a very clear idea of the product now, uh, and you know what you want build and what your vision is. So do you have any specific? Sorry, give me one second, please.
+
+10:53 - Unidentified Speaker
+Yeah, hello? Yeah, hello.
+
+10:57 - Arham Anwaar
+So I was asking, do you have any specific technology requirements or specifications that you would want us to follow or should we go with what we think is the best for the application?
+
+11:11 - Wale Agbaje
+Yeah so I think you should go with what you think is the best right so go with what you think is the best I want you to go with what you think is the best and the reasons why you think it's you think that platform or technology is the best right I think We need to have another session. So basically, in terms of next steps, and I discussed this with Arjeet, is that I want to present the design and the proposed technology stack to some of my stakeholders. So we're not going straight into development, right? So I've got the design. There's still some designs that are still pending. Waiting for those to come, right? And then when you send me your proposed technology stack, right, I'll then take it, I'll present it to my stakeholders that, yo, this is what the design looks like, this is the technology stack, this is how long we're gonna use to deliver it. Once everybody's happy and aligned, I will then come back to you guys and then we can kick off. Okay, that's perfect.
+
+12:28 - Arham Anwaar
+So I think I am already in the Slack, that you guys have for Stripe. And what I'm going to do is I'm going to do my research that we do before starting a project. And I'm going to come up with, you know, the latest and our recommended technologies for the application.
+
+12:45 - Arham Anwaar
+And using those, you can kind of, you know, go ahead with your pitch to the stakeholders. And you just have to give us like a verbal confirmation whenever, or like, you know, text-based confirmation whenever you're ready. And we'll part of the project for you.
+
+13:02 - Wale Agbaje
+All right. Um, can you please go into the design as well? Just one more time, please.
+
+13:11 - Wale Agbaje
+I just want to make another note. So there's something that I, that I think we missed in the design is that I also want a section in there where when a, you know, like 10 services, right? You complete service one.
+
+13:34 - Wale Agbaje
+So maybe you've booked services until 20 services, right? Once you complete one, you can just click that, oh, service completes. You just accept that that service has been completed. Do you get what I'm trying to say?
+
+13:49 - Arham Anwaar
+Yeah, I think that should be, in my opinion, on the calendar, probably where you're seeing the services. By day or something, or on the home screen, maybe.
+
+13:58 - Wale Agbaje
+Yeah, so maybe not add it on the design, because I think it has to be on the business side and on the user side. But if you discuss this with the designers, so that they can find somewhere to put it.
+
+14:14 - Arham Anwaar
+But you're saying it should be on the business side?
+
+14:17 - Wale Agbaje
+Yeah, so business will send the subscriber confirmation that service completes and then they'll go from there. Yeah, yeah. Yeah, yeah.
+
+14:51 - Arham Anwaar
+Is there anything else?
+
+14:55 - Wale Agbaje
+No, I think that's it for now. So in terms of next steps, I guess in terms of next steps, what I want to do is I will give it some time.
+
+15:10 - Wale Agbaje
+I'll give you some time. I'll also speak to Areej.
+
+15:18 - Wale Agbaje
+So the design is pretty much complete, right? Subject to these two comments that we put in there.
+
+15:25 - Wale Agbaje
+I will wait for your proposed technology stack, right? In terms of how you're going to build it and how long it's going to take. The other thing that's going to be outstanding is the remaining design. So there's going to be a reporting dashboard, reporting dashboard, right? And the idea of that reporting dashboard, Arham, is that we want businesses to have a dashboard that shows their revenue, that shows their number of subscribers, that shows pretty much everything, and it's going to be web-based, right? And they're going to be able to export that into things like Um, it's going to have our watermark in there.
+
+16:16 - Arham Anwaar
+This will be for super admins or businesses. No, no, no. This is going to be for all businesses. Right now, once that's done, right.
+
+16:28 - Wale Agbaje
+Businesses are going to be able to export that and then submit it to banks so that the banks can give them loans. The banks can give them, um, um, You know grants so that they can expand their business Right. So that's basically what we're trying to do.
+
+16:48 - Arham Anwaar
+Okay, okay Do you have any questions for me No, not really. No specific questions. I was writing down all of the points as well. So I don't really forget anything and right after the call hopefully within a few hours or so I'll send you the technology stats and After that, I'll wait for your information. Whenever you give me that, we can start on the development.
+
+17:16 - Wale Agbaje
+Are you going to circle back with the developers just to confirm the notes that we've added to the design? Yeah, yeah.
+
+17:24 - Arham Anwaar
+I'll actually convey these notes both over to Hassan and Areej. Okay, good. All right.
+
+17:34 - Wale Agbaje
+Thank you. Let's keep in touch.
+
+17:38 - Arham Anwaar
+And also, by the way, when we do start the development phase of the application officially, I'll set up a weekly recurring call with you or anyone else you appoint from your team who can meet me on a weekly basis where we can decide on future work updates and stuff. Well, that makes sense.
+
+18:00 - Arham Anwaar
+Then it was nice catching you. By the way, where are you from I, I hear like a, like a British accent. Yeah, no, I live in London.
+
+18:09 - Wale Agbaje
+Oh, okay.
+
+18:13 - Arham Anwaar
+And, and, uh, I actually pinged a Read about this as well. Um, but you wanted to do meetings, uh, at this time or a bit earlier than this. So why is that?
+
+18:25 - Wale Agbaje
+Um, it's because of my schedule.
+
+18:28 - Arham Anwaar
+Oh, it's because of the schedule. I initially thought it might, my be because of the time zone or something but then uh yeah yeah okay all right uh have a nice day then and uh let's hope to meet again uh probably in a week or two yeah okay okay take care yeah Here is how to make money in Nigeria while reducing plastic waste.
+
+19:39 - Wale Agbaje
+This is an 8cm plastic

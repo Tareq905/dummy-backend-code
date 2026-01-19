@@ -1,0 +1,647 @@
+Demo Session for KlinHR
+Tue, May 20, 2025
+
+0:11 - Omotayo Mosuro
+Good afternoon, everyone. How are you doing?
+
+0:21 - Unidentified Speaker
+Good afternoon.
+
+0:25 - Taiwo Ogunjimi
+Good afternoon. Good afternoon. Hello. Hi, hi, hi. Good afternoon, Tyrell.
+
+0:39 - Omotayo Mosuro
+Good afternoon.
+
+0:40 - Unidentified Speaker
+Can you hear me okay?
+
+0:41 - Omotayo Mosuro
+Yeah, we can hear you very well.
+
+0:44 - Taiwo Ogunjimi
+We can hear you very well.
+
+0:47 - Omotayo Mosuro
+Thank you. Thanks for joining us. No worries. Thanks for joining.
+
+0:52 - Unidentified Speaker
+Sorry? Yeah, cool.
+
+0:53 - Omotayo Mosuro
+No worries still. Thanks for accepting our invite to review Just to check, Lu, are you available? Are you there? Yes, I am.
+
+1:07 - Unidentified Speaker
+Perfect.
+
+1:08 - Unidentified Speaker
+Perfect.
+
+1:09 - Unidentified Speaker
+Okay.
+
+1:10 - Omotayo Mosuro
+Do we have anyone on the call from Silver Shell team? Yeah, we do.
+
+1:20 - Kay
+Yeah, I'm sure I'm on there.
+
+1:25 - Omotayo Mosuro
+I don't think Camilla will be able to join. She's locked up on another call at this point. So I think we can start. Yeah, we can start. So just for us not to waste so much time in doing the introduction and everything, so I will skip that. I will just tell everyone. The call is mainly just for reviewing the HR tool that been working on for quite a while now. So, we are looking for feedback and also recommendation on what we are building. We've done a bit of comparison between what we have against BrightHR, which is the UK-recognized HR2, and also with some features from Workday as well. So, we have everything working within our clean HR. So, I'll pass on to our honorable Olu to start the demo session, then everyone can just listen and take notes and provide or ask questions when required, okay?
+
+2:35 - Lu
+Okay, so good afternoon again everyone. I'll just go ahead, share my screen and get started. Please confirm that you can see my screen. Okay, so just a bit of an introduction. The CleanHR solution is an HR Ty has already said and we are all aware, but it's focused on serving employees from the point of engagement to disengagement. So it has the recruitment platform, it has the onboarding platform, it has the appraisal module and all the modules like time, clock-in, clock-out and the rest. And so what we offer as a value is your ability to get some form of bespoke interface for every client, rather than have every client share the same look and feel. So how are we able to manage that? So depending on whatever strategy we decide to go by, we have designers who have anticipated the most popular colors, the best brand, and across industry how they want their career portal to look like, and have some form of template designed on ground. So usually what happens is once we engage a client, we give them two or three samples of what this design will look like and we roll off their dashboard for them. However, we would also be looking at the generic approach. So whichever one we decide to deploy at every point in time, we have something covered for them. So for the purpose of this demo, this is the landing page for the users. So like I mentioned, the first point of contact is from when the employee is looking for a job. So they'll most likely get an interface similar to this or anything better. It could be more complex. It could be a lot easier and what have you. So at this point, they look at the job, read through the job description, and Once they're interested, they choose to apply. Sorry, let me use my other browser for this. Sorry. I wanted to separate the front-end browser from the back-end browser. Yes, please.
+
+5:22 - Lu
+Give me a minute, Lu, please.
+
+5:25 - Kay Ajayi
+I don't know if anyone is happy for me to record this session. I'll just click record now.
+
+5:34 - Taiwo Ogunjimi
+That's fine.
+
+5:35 - Kay Ajayi
+Yeah, you can carry on, Lu.
+
+5:38 - Kay Ajayi
+Thank you. OK.
+
+5:39 - Lu
+All right.
+
+5:40 - Lu
+So as a job seeker, I just land on applying for a particular job. And I go ahead to apply. So in the case, if it's a returning user, they can just log in and enter their details and email address. Sorry. Trying to use an email, slightly different phone. I hope you guys can hear me. I'm feeling very heavy here, so. Now you're fine, we can hear you. Okay, so that's pretty straightforward for a first-time user. Subsequently, this user will get an email anyways informing him that the application was successful, and he can as well go and update his profile as the case may be. So here I can choose to log in, complete his profile. So now every job seeker will have a dashboard. Here is just for engagements and to encourage them to come back and see what's happening. So you can see jobs he has applied for. You can see job offers he has gotten from his dashboard. So if he had saved a job, so for instance, he wasn't going to apply, but he didn't want to lose track. He has the liberty to save a job. Let me just go to the front. And let's assume I did apply for this, but I just wanted to save the job. So it just means that subsequently, I'll always see the job that I've saved on my dashboard. So I can update my profile. This is where he will update his qualification, work experience, job preference, and what have you. So you can also upload his credentials. Be it his CV. Now, one of the things that we currently have is some of the flow is meeting our current needs, you know, because it's used in a lot of, it's used at the top HR consulting firms here in Nigeria. And, you know, it's a system that works for both a single organization or an organization that has, you know, subsidiaries, or the way our system now have thousands of employees spread across, let's say, hundreds of clients. So that's the way the platform works. But you get to see how all that works from the end. But pretty much, this is what the job seeker would do. So we have email notification and engagement as they proceed within the system just to create some form of attachment and to always bring them back to the platform as the case may be. So now, for the job seeker. Now for the employers, which would the HR team themselves.
+
+9:41 - Omotayo Mosuro
+Can everyone see good screen?
+
+9:45 - Lu
+No, I think you stopped sharing just less than a minute ago. How about now? So now we have a different interface for the HR team. By the way, I have two of my colleagues here with me, so in case you hear us mumbling, you might be giving me feedback. We have John and we have Sumbo. OK. OK, so now this is the dashboard for the HR team. So what you see first, it just gives you like the health of the system. At the moment, you have 1,526 registered people. You have 4,000 plus applications in this database. Database we're working with. There are three job openings and if you notice you see that from our front end we only have two so it means that maybe a job is expired or it's closed so one of the things the job the HR guide would have is for those who have access to the different modules, so they are user roles, you might just have access to the recruitment module which might be vacancies, job seekers and onboarding. Then we have the HR operation role, we have different roles. So depending on how the organization wants to allocate modules to the different users. So we're just seeing everything as an admin user. So I might be responsible for posting jobs, meaning that I want to post a new role to the dashboard. So I just fill all these roles. So there are some improvements that we're working on at the moment. I guess that I can just mention some of them. So because Tyler had some ideas that we have also tried to start bringing into the table. So I'll just let you know what is not here now. And these are things that we're working on. So for the job post, you can see expired jobs. So it just shows you that, OK, one of the jobs have expired. So if I decide to bring it back online, I can just edit the job and probably just change the deadline date. So this one says 15th of March. And I can just push for that to, let's say, August. Let's assume. And I'll save that particular job post. So what that means is any user who visits the website subsequently would see the additional and the job as they were. So a job, you may have posted a job, and you are seeking to find a certain number of candidates. And all of a sudden, you've got what you want, and you just want to take it down. So you don't have to delete it. You can just close it and say you closed it. That particular job post. Pretty much, these are just, so depending on the workflow, so there are approval processes in between. Some organization might want a special whereby, want to activate approval, so people don't just post jobs without maybe the head of department approving it. But those are now peculiarities that we can now document and quickly modify, customize for them before it goes live. So that's for posting jobs and seeing job posts. So for job seekers, these are where every other person who have applied in the system comes in. So these are registered users. So you can have many registered users. So 96 are inactive. This is just saying that, okay, for some reason, an account was, because when you sign up, there might be email confirmation so that we are sure that the email is correct before you activate, before you start using the platform. So in that case, some people signed up and probably going to confirm their email so that way you can have inactive or in this case so for Applicants, so this is where the real application comes in. So I this was the account I just created and I Applied for this role so I can see the details of Every other candidate so here I can filter by rule. So now there are some intelligence and functionality that have been embedded. So while we're rolling out next update, so see where the system automatically just completes candidates based on the job that was posted. So you don't have to be the one to start inviting them for interview. So the entire application tracking system process will be automated. So you apply for a job, the system sees that you are qualified. It just sends you the assessment link. So go and take the assessment that is tied to that role. So you write your exam immediately. And for those that have passed, it sends them an interview invite. So depending on the kind of time gap that the recruitment team wants the system to give each applicant, so you know that, OK, anybody who applies today should be, maybe you have fixed days for your interviews, or you have two days intervals from every application in for their interviews, and within a scheduled time, they get the link, whether it's a virtual interview or a physical one. But these are things that are already in the pipeline. So as we're building, we're modifying, we're also updating. So there are some couple of ideas that we've already started working on. But in the meantime, it's just to say, I want this guy to come for an interview. I can choose the interview template. So the system already has in-built messages for the different type of invitation that you might want. So it could just be that I want this person to go and take an assessment. So the assessment is online and the system automatically schedules the candidates. So it sends this mail based on your qualification. You know, you'll be shortlisted for a test, follow this URL. The system will generate the URL and generate a unique code for each candidate and send them an SMS as well. You know, in this part of the world, you have people who tell you that I was charging my phone, you know. So, the phone I use in receiving SMS is different from where I check my emails. And so, people at that moment might not have a smartphone with them. So, these are cases. So, we still depend on them getting SMS to let them know that email was sent to them. They should check their email. So, once you send this invite, that particular candidate will be moved to the next stage of the system, which is assessment. So if I come to assessment, I can see one. So this particular candidate has been scheduled for assessment. Let me just pick up his assessment code. So within these blocks, they get the relevant email. And let me just show you how that looks like, So the candidate with the assessment link.
+
+17:01 - Unidentified Speaker
+And the code here says 500682.
+
+17:05 - Lu
+So you can take his assessment. So for now, our assessment portal is just the first level assessment. It's not as robust as some assessment platform where you have to do some pre-camera, camera and all that, but you know, but also working to improve, improve that. But this is just, we will shortly, because, um, clients we've deployed this for, even, even at this point, you don't realize that, um, 500 people apply for a job and 100 of them failed the assessment. So it just saves you that stress. At least even if somebody is really intense, that is not so, um, complex. It just reduces that headache. But we, These are updates that we are also... I just have one simple assessment. I'll just run through it so you see how... So at the end of the day, depending on how you want the results to be, you might just want to tell them, thank you for taking this assessment. We'll get back to you. You might want to show them the cutoff. In this case, Y20 can be a cutoff. Y20 is a pass because what the particular assessment idea is, for the compassionality test. Usually there's no wrong answer. It's just for the HR guys to see what you've chosen. So at that point, you know, suitable candidates. So the results would be in an assessment. So you can see the scores for everybody who has taken the test, you know, those who finished, those who are still writing, those who started and didn't finish. And at that point, you can now move, you know, such candidates to maybe like the next It could be a second level assessment. It could just be that, well, we want to just have it take the test and, you know, we're satisfied, we're moving forward. Screening exercise. Exactly. So now the onboarding is, you know, for you to get all their documentation and all that. So in this case, are you deploying him for a third party client? Is it for yourself? Is it to a department? So this is where you just move the candidate for onboarding and he gets the notification to go and begin onboarding. And the candidate has been moved to those who are pending onboarding right away. So he's pending onboarding. The onboarding page is similar to this in a very long form. I wouldn't go through that now because of time. I'll just show you how a completed one looks like, All right, sorry. So the candidate gets the link and he's just supposed to pretty much enter his email and move with his onboarding code, which would have been sent to him as well, both as email and SMS. And this is where you get all his information, his bio data, he gets to fill in his bank details, you know, everything the HR will need. Before the screening, yeah, his previous employer, you know, next of kin, you know, you can't choose to concise the form if you feel it's too much. Therefore, what you need all information at that point when they are just applying for job, you know, you enter his qualification. If you have other qualifications, you can fill that in. And by the way, the interface is, you know, is something that we can always customize for clients. So, you know, everything will be doing will be such that it takes the client's brand and color beyond the generic So here he uploads all his credentials, his degree, his means of ID as a case may be and he can just upload. I don't already feel this form. So once a candidate has completed, documentation he he moved from so I think I attached a very huge file yeah so let me choose something smaller sorry yep I just want to show you how he moves away from the documentation stage okay I selected an ID that a document already uploaded so this is just to make sure that you're not putting the same document and all the necessary checks and complete documentation. So once the candidate has completed documentation themselves, the system automatically moves this candidate to completed documentation. So you won't find these guys here again. They'll come to those who have completed documentation. So the purpose of segmenting this is to just have someone within the HR team look through these documents, be sure that they uploaded everything that they are supposed to, you view them, to be sure that yes, the attachments are correct. And if there's anything missing, you type a message to the candidate and you just send. This way, the candidate is moved back to pending because there's something missing. And only when he completes that document, he moves back to completed documentation. However, if these candidates, you know, you're satisfied with everything at that point, you can now move the candidates for to the pool so and this is where verification starts so we have two types of verification depending on what we're deploying to say in in some part of our world so they still like to have physical forms filled so if you move a candidate for verification or the guarantor details he has filled uh they get emails and sms informing them that okay man um Lu has used you as a guarantor for So kindly download this attachment and feel and send back fully in this link and everything builds back into the system. Now we have the case where they just follow a link and go online and just attest it to what it is, upload their picture and use their camera to turn on their snap their picture and sign online. That's more automated. So both ways we have them covered here. And once that is done, you can move the candidate to the pool. So the pool is to say, well, the person in charge of this level of verification is done with his work, and somebody who is in charge of ensuring that before they are deployed to a client or deployed to their department can view everything that's having uploaded. So here the verification team also upload evidence of their verification document. So if I've verified the guarantor, I just come here, or I've verified the academics, the response from the institution can be uploaded. So this will form a comprehensive documentation of this employee while he is being onboarded. So all the evidence, so if I upload the first guarantor, let's assume that we have vetted this document and I'm uploading the verified copy, kind of I just wanted you to see a slight difference from the ones that, you know, verification units have cleaned up. So I just upload these three documents. So it shows that I've uploaded these three documents, which are mandatory documents to say that somebody has completed his verification cycle. Every other document has to be uploaded as you move on within the system. So if I come back to pool, I'll see those with completed documentations those that are, you know, mark, um, correct, check, those that are still painting one document or the other as the one that have the egg. So, um, some organizations, you can't move this candidate beyond the stage until you have the green side. We have organization who says that, well, our clients are very desperate for our staff to resume while, you know, we'll run the background check behind the scenes, let us be able to move them to the next stage. So this is, you know, assigning this candidate to clients or department as the case may be. So this part, you would have done your payroll settings. So when I'm talking about payroll, you will understand. So here, I choose the location this person is going to resume, the client is assigned to. And here, I can choose the salary band, because this information that I'm feeding in from the payroll module. So for Aledoa Solution, they have this different salary band. A different client might have different names for their own salary band. So, this is basic level, entry level, you know, these are just demo contents anyway. So, this is entry level, mid-level, developer level, in turn two, as the case may be. So, if this person is in the developer level, it just pulls what the number of lead days for him, his basic salary percentage as the breakdown would be in the payroll. I can give him, okay, this is a junior web developer. I'll just give you the proper title. I choose the resumption date, as we want, as the case may be. Obviously, you've had this conversation with the employee before you move on. Then you push to HRBP. So the nomenclatures are what we use a lot within the HR outsourcing space. However, those grammars can be changed to what is suitable for what it uses. So assigned staff. So these staff that have been assigned You know, in between these modules, we have people who receive the notification. So the system will tell somebody who received a notification for documentation. We have somebody who received a notification for HRBP. So at the point you assign somebody to client, somebody received a notification that one biotherapy has been assigned to a certain client. You can see that based on the algorithm of the staff ID for these clients, this is the staff ID tied to this employee. So if it were to be another employee, I tried to move based on the that's tied to that staff, that client's staff ID with what the system will generate. So at this point, you know, somebody just vets it again and his major, sorry, his major responsibility is to now generate, you know, some form of offer letter for this staff. So in the system we have in-built offer letters generated and saved for them. And here you just click on generate offer letter. Based on the different templates, so if we are deploying this for a client, we would have pre-populated the different templates, as the case may be. So here, the offer letter would come in here. The body of the letter, based on the different clients, would also appear, just like we had in that interview invite and then what I showed you earlier. So you preview the letter. So the whole idea is to see the letter before. Would have customized the letterhead so this is just for demo so you just the body of the letter will appear here and once you are satisfied with what you have once you are satisfied with what you have you can now send the offer letter to the candidate now the letter in most cases doesn't go straight to the candidate it goes to some senior HR person who received the letter to say oh a letter has generated, you need to look at it before, you know, it eventually gets validated.
+
+28:56 - Taiwo Ogunjimi
+So if we are skipping that process, usually what we... I know, I lost him. I hope that's not me. Not only the same here I think okay yeah we lost him for a while now maybe he's trying to reconnect or something not sure okay wow so far so good quite impressed oh while we wait for load do you have any questions or you know feedback you can drop it in the chat you know um no I guess any question Just to confirm, this demo is more or less basically for myself to kind of review and reflect on or other participants, are they doing the same on this call? It's just for me to be able to kind of look at when is a good time to respond. Is it when he's talking or just leave it towards the end, kind of give a blanket?
+
+30:07 - Omotayo Mosuro
+Yeah, so what we'll do is since we have the message recorded, I guess you must have been identifying some things, some interesting things and some kind of like feedback that you can give as well. So my expectation or our expectation is after the call we'll probably have a catch up with you as well to see what you think and where we can improve or where you can give kudos to as well. So that's what we're looking for as well and the question that you can ask on the call. You can still ask, but I guess there will still be more things that you would like to share with Silver Share after the call.
+
+30:49 - Unidentified Speaker
+OK, great, thanks.
+
+30:50 - Omotayo Mosuro
+And for the other members on the call as well, the floor is yours. You can ask questions, we can provide answers to it. One of the things I would say about the demo that we're doing today, if your feedback is around UI, UX or interface, don't worry about it. It. We are not actually focusing on that at this point. So, once we are happy with the features and the modules that we have on the app itself, then we can start focusing on the look and feel of the app itself. So, if you're thinking maybe it looks basic, it just looks boring and things, don't worry about it. We're still going to work on the images because we have to make sure it fits the UK market itself because the developer is in Nigeria. So most of the things that, most of the city's name or things that he's using is Nigerian based. So when we finish the app itself, it won't have all those details. It will have those feelings. It will have those texts in there. It will be changed. But what we just want to achieve on this course to make sure that we have an app that is fit for purpose within the UK. Okay, so if anyone has got a question, I'll check below to see what's going on then we can continue. Question here.
+
+32:15 - Unidentified Speaker
+Check.
+
+32:16 - Unidentified Speaker
+Yeah, you can.
+
+32:19 - Unidentified Speaker
+You can ask question, please.
+
+32:24 - Unidentified Speaker
+Okay.
+
+32:25 - Unidentified Speaker
+Yeah.
+
+32:26 - Unidentified Speaker
+Thank you very much.
+
+32:30 - Ajala, Olayinka1
+I'm tired and everyone well done.
+
+32:37 - Ajala, Olayinka1
+This is looking really good, very impressive. I'm glad you mentioned UK when you were talking some minutes earlier because looking at the interface and looking at how everything is arranged, the first question is about GDPR in terms of how you need to think about how to arrange in such a way that people only have access to the information they need at every point in time. So, for instance, the kind of information the HR would have would be quite different to the ones the line manager would have because I can see something related to, I'm not sure where it was again, directly maybe the line manager or something. So, that's something thought through very carefully in terms of who has what access in terms of data. What can the HR people say that the line manager is not supposed to see? In order to make sure that the process is designed and the app is designed in such a way that it doesn't raise issues relating to GDPR.
+
+34:00 - Omotayo Mosuro
+Thank you. I think I can answer that before Luke continues. We've looked at all that as well, and it's one of the big thing that is quite important before you can think about creating or developing an app that has to do with people's information and the level of information that this system will be taking in. We've looked at things that we have to put in place after the app has been launched, things around the ISOs, and all that has to do with customer details. We have that as part of our plan before going to launch as well. We also have the GDPR regulatory process and procedures. We are looking into that as well. But this is just the first step. Before we can start focusing 100% on that, we have to make sure we have a functional and working application. So once this starts working in-house, we can see everything is working, everybody has given a feedback and we've worked on everything, then we can now focus on all these regulatory requirements that needs to be in place before we can start providing it to customers as well. Because if we are putting up an application that deals with people's information, we have to make sure we have a governance in place to look at the information, GDPR. So that's why we are also looking at other things to make sure that we are compliant when it comes to storing customer details. So don't worry about this part. We are looking into it as well. We just want to make sure that the app that we have is functional and is user friendly as well. Like I said before, don't worry about the look and feel of this application just now. Once we finish the the building, the build, we can start looking at the UI, UX of it, so any feedback we'll take will be more about the functionality, ask questions about what is not on the app, if it can be added to the app. Okay, so Lu, I'll let you continue with the demo session, so people can listen in.
+
+36:13 - Lu
+Yeah, all right, thank you very much, sorry about the break. So, Please confirm you can see my screen.
+
+36:22 - Omotayo Mosuro
+Yeah, we can see your screen there.
+
+36:25 - Lu
+Oh, good. All right, so where I stopped was, once a candidate has been moved to become a staff, he gets a notification with the necessary onboarding, staff documents, staff handbook, and all that. And he also comes with a link to his own health service portal where he can now log in to engage HR activities. So like I mentioned earlier, so everything I've been doing, you can see this is my mail showing when the person applied for a job, the mail he got, when he was scheduled for a test, when he was invited for the first level interview, when he ended his test, the onboarding stage, you know, even when he got the offer from Alec Doyle. So this is just to show you that everything I mentioned in notification were also dropping in the mail box as we were moving. So at the point where the candidate accepts the offer, you know, somebody candidate accepts the offer, you know, he's taken to a page where he can upload the credential. So once all that is done, the candidates now finally gets access to what we call the self-service I'm just logging in as one person. So now a staff gets to see a dashboard similar to this. He can apply for leave. When it's time to apply for leave, this is what he uses. It shows the number of days he has to apply for leave. He applies for his leave here. When it's time for appraisal, if he's scheduled for an appraisal, he can do his appraisal here. So we have different approaches. There are two major appraisal types. So we have the 360 degree, I think the HR people call it 360 degree appraisal, where, you know, it's the employee that sets his objectives. And once he's able to do that, he can get the approval of his line manager, the HR has approved that particular, what do you call it, that particular job role. So if I want to set my objective, I select my line manager, I choose the appraisal period, whether it's quarterly or annually, I submit, then I set up my KPIs, you know, based on my job function. You know, we'll go into details of this in a proper training. So this is where he sets all his KPIs and with the approval, that will be what he'll be appraised when it's time for appraisal. So I'll show you how that looks like in another slide. Sorry, in another, when I'm touching appraisal from the HR end. So for those who are in the payroll and then they've started receiving salary, this is where they come to view their payslip. So the payslip will appear monthly and you can click and view the generated payslip breakdown. I'll show you how these data are being imputed to this part of the system so if there are grievances you want to make a complaint so remember I said that this system also works a lot here within the outsourcing organization so you know some employees are working under contract with the different clients so they don't even know their HR they don't meet their HR in person so this comes really handy and for an organization who I'm applying I'm trying to make a grievance. And it just goes to my exact HR business partner. So even though I'm the one managing, from the HR perspective, I'm managing UBA, I'm managing SilverShell, I'm managing MTN. So it means that any of those employees within our client portfolio that is applying for leave or making grievances or sending in their resignation, I'm the one to get the notification directly. And the system keeps record of everything and I can act on it by logging into the backend to manage this. So for an employee that is resigning, he can see the exit form, he clicks the resignation form, he can, you know, then he completes the resignation. So why this is bringing me here is because, you know, we didn't complete the onboarding for this particular candidate. So before you can do any major task, you have to complete the onboarding. So he wants me to go through the entire onboarding process. And this only happened because there are some cases that employees are being migrated to a new organization to manage their HR. So once they set them up, they can't have them to start going through the onboarding before they start paying them salary or giving them access to the portal. But for those that have access to portal, once they start using it, they need to complete some form of documentation before they engage. So things around my organization, downloadable documents, you know, I can view them, download them here. You know, if I need reference data from my employer, I fill the form, the right person gets it respond to me. You never have claims. And if I want to view my clock in, clock out history as I've been working within the organization. So the clock in, clock out is for those who we want to keep tabs on their time sheets. So it just comes in and clocks in, you know, when it begins work from wherever location it is and the system, you know, keeps tab of the time. He's taking break and he can start a break And when he's done with his break, he ends the break. And I'll show you how this is being composed from the HR end. But this is just to give you a feel of what the employee who will be working and be using this dashboard would have features to. So that's network. Then I was going to log out. It changed password. It broke. So that is for the staff portal. Now from the HR team, now this is another level of user to say, well, I can see all the grievances within the system. So based on the different grievances that employees from different clients, I can see this is one employee. This is the client he has been seconded to. I view what his complaint is. If this has been treated, I click as. You know, a mark has done and this was showing the red side means that these are completed are coming and are yet to be treated. The system also has some form of escalation level so that once something has not been treated within a certain period of time, it escalates to a senior colleague. So these are where you see all the leave applications and for everybody who has applied for leave at this point, this person's leaves were denied. The one that is pending, you can view to see the full details of the leave, the date he applied, and the period of the leave. If there are any document that comes with the leave, if you want to download the signed form, if you want to approve this leave, you just click on approve, and the employee will be notified that his leave has been approved. He can go ahead once that date is up. And everything that has to do with reference, the reference letter request, they all come here. Sorry, so there's whistleblowing, there's news and events. So within some organization, the HR might want to communicate news. So we have some, beyond getting the emails, some staff portal might be designed such that once you log in, you can maybe, there's a news dashboard at one corner of the employee self-service where the news will be feeding into that place from here. So for everybody who have been sending in their resignation, these are resignations that are pending. I can view the resignation details. I see where the person applied. I see the form he has uploaded. If we were to accept the resignation, we accept. Otherwise, we have a conversation and see how to deal with it. So those are the things. Now here, you can see documents are formed. This is where if there's a new document that needs to be uploaded for all staff to view. If the document I want to send is to a particular client, I can say, well, this particular document called New Staff Handbook, I can say, well, this is applicable to only Aledoy, Azamanzad, and maybe Bois, whatever, whatever. And if I upload that document, so it just means that it's only the staff that will be notified that a new handbook has been uploaded. And when they log into their self-service, they will be the only one to see that particular document. Not everybody, but if I wanted to upload this document for all, you know, I have the option of selecting all and everybody will have access to such documents. So, that's that. So, staff list, here we want to see all the information about the staff in the system, you know, their qualification, their position. I might need certain information about a particular staff or if staff reaches out to the HR team that I'm unable to log into my dashboard, I've changed my password or I still have a pending leave. All those administrative activities can be managed there. If I need to find out about one Illumiday, I can search by name, I can search by staff ID. We just pull all the records around all the Illumidays in the system. This one was deployed to Aleppo, this one was deployed to Canada, this one was deployed to COVID. This is active and active. Based on the status of the client, I can see those information, people with the right privilege can now, you know, I can reactivate this staff if, for instance, he resigned. You know, we've had cases where you thought somebody was going, but for some reason they were able to renegotiate and he stays. Because if the employee fills the form, after the effective date, he might not have access to the system again. If you delete this and, you know, probably just update the record to activate that particular client back. So we have activity log. I deliberately want to touch is everything that will be happening within the system is stored in the activity log. I can see who does what. These are administrative access, though it's not everybody. We can export this sheet for proper analysis as the case may be. So here, I can move and say we want to look at appraisal. So for instance, if we were to set up an appraisal, if it's the type of appraisal that is the HR that will set the KPIs for the different roles. I can select this particular role, set the KPI for the role. So for each of the objective, the perspective, the results, key result areas, the weight and target, I keep adding more objective, more objective. And once I submit this, this objective will be tied to that particular role. Meaning that by the time, once it's time for appraisal, I can now say I want to initiate a new appraisal. I say I want the appraisal to be for that particular role. And once I'm able to select when this appraisal is due, I can say, well, between this period, everybody within this role should have taken the appraisal. I set the clients that I'm setting this appraisal for, and I set the appraisal. So it just means that I have this appraisal to start. And once I start this appraisal, all the employee within that job role and that finds that are tied to that KPI that I have just initiated will be notified that they have an appraisal, ongoing appraisal, that they need to log into their staff portal and go and do the appraisal within that period. Anything that exceeds the due dates, they will not have access to the system. So for those who the appraisal has started, you can stop an appraisal, you can view the result of an appraisal circle. And you know, you can export, this exports the record in most cases for the HRU. So the appraisal model is such that a staff goes in, he logs in, he does his appraisal. As soon as he submits, the first line manager, as the case may be, will receive the notification asking that Michelle has completed his appraisal. Kindly follow this link to validate the appraisal and add your comment. So depending on how your questionnaires would want to, the additional remark that you might want to look at, that would determine how BEST would interpret the form. However, it's the key question that we're responding to are what has been set in this approval. So at some point, you might want to see the appraisals that are ongoing, you know, depending on as the case may be. So the assessment module, you know, we looked at assessment. This is just where you set, you know, an administrator who wants to set up an assessment. Numeric reasoning, verbal reasoning, abstract, computer computation. Let's say I want to set an assessment for brewers, you know, so brewers, maybe those who work in bottling companies, and we set up that assessment, and I'll need to attach the particular type of questions that will go into that assessment to say, well, this brewer's assessment, we want those with this role to be able to take that assessment It shouldn't be more than 10 questions. The past match should be 50. The time should be 15. Based on this, I can say, well, they should do verbal reasoning, computer competencies, and BRUAS assessment. So this is just to set up an assessment for a particular role, meaning that anybody who will be applying for this DevOps consulting role and being moved to assessment will be taking an assessment that the system will generate the questions from these categories, and they will have 10 questions with a pass mark of 15, and their own assessment will be 15 minutes. So every role have their assessment type. So this is just pretty much where the assessment team can add question into the system. So I can add bug question, and there's a template for me to upload, to follow to upload that bug questions. And if there were questions that I want to add one by one, I can do that, which is usually not the case because it's always easier to just upload an Excel sheet with all the questions and answer following the templates that is attached here. So in the case of setting up an assessment, your questions are tied to the different assessment types. So when you want to upload a particular question, let me see how this document shows the, so that you see how the assessment and template question looks like, OK, so this is what they call it, Safari browser. It's the one displaying it like this. So normally, you would just download an Excel format. So this is the category, the question type. You set your answers in columns and row. I think this should save. It should have saved. OK, so if I were downloading this from a Chrome or Mozilla, I would have downloaded the CSV. We'll look at the Safari browser again. So that's that. For those that have been taking the assessment, I can see their scores. And I showed that pretty quickly while we're looking at the assessment. You can view all the candidates in the system. So for instance, if you just want to schedule somebody for a test, you are not looking at him going through the entire system. We have the liberty to just add a candidate directly from the, from this menu. So I can just set the name, put an email, set the phone number, choose the role the person is applying for and deploying it. So based on the role, the assessment name rather, the candidates will get an email telling him to take the assessment and the result will roll into the system. So the next thing is, you know, as I mentioned, you have different clients, you might be deploying this application for different clients within your portfolio. So this is where you add every client. And while you're adding the client, you have the liberty to say, well, is this client going to the employees of this client? Will they be using the online guarantor form or the usual download and view form? Would this client, do we want to enable the clocking settings for them? Meaning that we want a situation whereby this particular client or their employees will have the clocking. Is it going to be something that will be tied to a physical location we put the geolocation, if it's a flexible type, we select flexible and add the client. So YON means that for clients that we've tied to on-site, it means that based on the geolocation that's set for that particular client, employees who will be clocking in must be within that location to actually have their clock in work. So for the payroll parts, this is where we pretty much set up payroll for of different clients, and there's usually what we set up, if it's a client that already have an existing payroll structure, might need to see that and see how to do a bulk import of their structure first. But moving forward, you have a new client. After they've added the client to the system, they can say, well, I want to set Petrolex. I want to set different salary band for these people. I say, OK, I have entry level, and I say the entry level Maybe 150,000 there. Then I enter the next one, say mid-level. I just want to put 250,000. And say it's senior level. Oh, sorry.
+
+54:26 - Lu
+Senior level, 400,000.
+
+54:30 - Lu
+Once this particular salaried band has been tied to that client, I can now set that different payroll structure. So here, Petrolegs, I click on mid-level first. And based on the standard is to have the default company contribution for the deductions, the allowances in terms of the percentage. So if you want to change anything here, if you want to add more deduction, if you want to add more allowance, so you tie that particular structure to that particular salary band of that particular client. So this way, I've tied that to, the entry level. I do same for, let's say, the mid-level. Maybe there's something slightly different for the senior level. Maybe they have additional benefits that the rest of these guys don't have. So I just take the liberty to add that to say, well, and this time is maybe clothing. So the payroll guys what I'm trying to explain here, they know it better. I just want to show you how all the payroll settings would have been tied to the different rules and salary band. So it means that by the time we want to generate the payroll for that month, for the month in question, you just come here, click on Compute Payroll. I think I've done this earlier. Yikes. OK, so what happens is that you know, the system just generates the payroll and it tells you that for the number of staff that's in the system is the total, you know, expected salary for this period. And this will be sent to the, let's say, finance department or the person in charge of ensuring that the payroll computes properly. So the person gets an email with the Excel sheet. So the system would have prepared the Excel sheet and the details. But before, This is sent for approval. The person who is generating this, who is computing this payroll has the liberty to look at it, take a second look at everything to be sure that, well, the system computed this properly and I'm satisfied with what it is before he sends for approval. He can export it. However, export is within a senior administrative role so that whoever is computing this does not export people's information, just like you said. Send this for approval, as the case may be, and the right person receives that notification saying that, okay, a payroll admin sent to you waiting for approval. So that's so far what we have, but we have the capacity to, based on what the client might want, if you have any payment integration that you want to, because we have to lay out with the bank to get the necessary API to say, At some point, maybe with a click of a button, payment should be pushed to the employee. But that's a discussion to be held with, that's a discussion to be held with, at that point, with the providers of the API. So, well, the payroll guide knows how to explain every other part that has to come with the payroll model. So far, that's what I can explain. I know this schedule has to do with how we manage the schedule here in Nigeria, where they already have the details of all the prevention and all that. So the learning and development is not a one-size-fits-all. It's not an LMS. It's just to plan, how do you call it, learning interventions for members of the organization. We've had cases where we deployed a clean HR for a client, and it says that they want their employee to be able to, from their self-service, at a certain period, choose a training that they feel they want to go for. And through that system, they can request for that training. So with the approval of the HR, the system automatically now moves them to where they now take some form of questionnaire, which is like a training evaluation, pre-evaluation, assessment, that these employees will now take and they have where they can do the post evaluation assessment to that is to see whether, okay, before the training, what were their competencies like around the skillset they wanted to learn and what they look like after the training. So we don't have a particular framework for this. So based on whatever the organization might want at every point in time, we further customize this. It's pretty much where they have all their facilitator details, the courses that the organization is willing to give the employee. And they have this back end to be able to add more courses. And as the employees deem fit, they see the level of the courses and who can take those courses are tied to the courses such that once it's time, because HR changes, they need to know which facilitators think, which setting course for the organization they might They might be internal, they might be external. But here's just some operational learning and development module that we have deployed. So beyond that, we have the general settings. This is where you create other users for the account, tie them to the different roles. I can say I want to create an account for Taiwo, put his email, phone number, which privileges should Taiwo have. I choose the module. Kyle Kahn.
+
+1:01:01 - Kay Ajayi
+I can't hear anything.
+
+1:01:03 - Unidentified Speaker
+Is that me?
+
+1:01:05 - Kay Ajayi
+I guess we lost Lu. Are you there? Yes, I'm here. I guess he's got a network issue.
+
+1:01:16 - Omotayo Mosuro
+He's using two devices. So one for the screen and one for the audio. So far I know he's well detailed. Kind of like demonstration, which for some might be boring, but it's trying to touch on every aspect of the application itself. So, so far, do you guys have any questions that you want to ask so we can put context to it and provide answers to it?
+
+1:01:56 - Taiwo Ogunjimi
+Right now just say kind of first impressions quite impressive and I'm just guessing that there must have been some work done in on this and the platform is already being kind of used in Nigeria already is that the case by some clients?
+
+1:02:16 - Omotayo Mosuro
+Yes so currently so the first the first phase of the hub is currently being used by by a few organizations in Nigeria, low scale. And so what we're looking at is to now replicate what we have in Nigeria, in the UK, and have some other features that UK HL2 have got. Can you remember when we were looking for, we were scouting the markets and looking for the best HL2s to use for Silver Shell? And one of the requirements, they have specific expectation and requirement for your HR to have. And so that also give us an insight on what our app should do and what we are expecting they have to do as well. So we're able to add those features to the ones to the one in Nigeria. So so now what we intend to have is to have a package where customer can tailor what they want to do. To what they need, whereas because most of the things always showing and Demo into us at this point might not be required for all the people who needs this system, so might not need the the recruitment also because they already have that in place so they might not require so you can easily tell what you want based on what you need as well. So that's what we're trying to do. So want to show what you have a robust give customers the option if you want the basic one you can have the basic you have the comprehensive where you can have the comprehensive one and if you just want an average one that covers what you need there you can have that so currently it's working and it's working well we've got good customer feedback in Nigeria from the ones who are currently using the app but in the UK is is the next phase of our plan.
+
+1:04:09 - Taiwo Ogunjimi
+Okay I will just wait for um the meeting so that I don't take too much time and I'm sure he wants to come back but straight away from what I've seen I'm quite impressed there's a lot that can be done and I'm sure scalability is one thing that you'll be thinking about when you come when you want to come into UK. You want to focus, you want to think of a target market and don't kind of generalize it but just before I kind of keep quiet for the for the next phase The roadmap will be key as well. So he may touch on it, but I don't see anything about AI-driven. I don't see anything about chatbots. I don't see anything about reporting and dashboards, analytics. He may touch on it, but those are the key things that from the top level you'll be thinking about. And that's where HR is going towards, AI-driven stuff, and dashboard analytics and reporting and I'm sure he may touch on it or not but that's what we should be thinking about but I'll leave any other feedback to later in terms of security. I think one of one of the guys talked on something that you gave feedback on which is SSO and security.
+
+1:05:33 - Omotayo Mosuro
+Yeah ISO license and things yeah.
+
+1:05:36 - Taiwo Ogunjimi
+Yeah the license is one thing but it's security profiling within the system is another big thing, but I think it would be good for us to kind of, yeah, chat about some of these things later, but so far so good.
+
+1:05:53 - Omotayo Mosuro
+Okay, Lu, are you back on, yeah?
+
+1:05:56 - Omotayo Mosuro
+Yes, I'm back. Okay, thank you. Did you hear some of the things that Tan will mention, yeah?
+
+1:06:04 - Lu
+Yes, yes. Okay, when it comes to the The AI parts, yes. So we have started thinking in that line. We started work, not just thinking. So there are some clear indicators in terms of what this should already be doing. If you remember what I mentioned at the recruitment part, where a lot of the phases would not be manually done anymore. The system should be able to intuitively do certain things. So it even includes where you are trying to add a job post. Adding a job post, you don't need to be the one to worry about what I declared job description. So once I type, okay, I'm looking for a cleaner, the system should be able to generate, you know, data around what the average cleaner role should be. So you can just put in a description, just the same way we ask chatGBT question and it just generates, you know, the job post and yours is to just review and submit. So from a point where the system is already being used, it can also crawl within the system because obviously for data protection, you can get already qualified candidates and sending them a very nice message telling them that this will fit your profile. It will be nice for you to just apply. Can I apply for you? And with a click of a button, the user doesn't have to go through the form. The system already has this information and can pull as much data as possible where allowed to be able to do that. So we've started thinking and started working in that line, especially the recruitment module, and would apply a similar concept across a different module as we build on. So in terms of the dashboard analytics and all that, yes, we'll be, so one of the things that I'll mention is that we're reworking the interface, and that's the focus of the new interface. So once you log in, you can start taking decisions even before you go into any of the modules, because you can clearly see what the health and what your entire HR organization structure or informations look like, So, and you know, as we build on, we have people who are taking certain data from our feedback so that we can have this system fully robust in the next iteration of partial deploying. So, I was speaking to the, So I was here where I said, okay, this is where you tie email to the different modules because, you know, within the organization, you need to know who is notified.
+
+1:08:43 - Unidentified Speaker
+You're not sharing anymore.
+
+1:08:45 - Unidentified Speaker
+Okay.
+
+1:08:46 - Unidentified Speaker
+Sorry about that.
+
+1:08:47 - Unidentified Speaker
+Yeah.
+
+1:08:48 - Unidentified Speaker
+Okay.
+
+1:08:48 - Lu
+So please confirm you can see my screen. Can you see my screen?
+
+1:09:00 - Unidentified Speaker
+Yeah.
+
+1:09:00 - Unidentified Speaker
+Yeah.
+
+1:09:01 - Omotayo Mosuro
+Yeah, we can see your screen.
+
+1:09:03 - Lu
+All right. So like I mentioned, this is where you just type certain emails to the different modules who should be notified if certain actions are taken at certain modules. And the general settings is just to put the entire system into proper perspective around how the clients should work, the client code, should it show image, logo should be, should there be verification module? But not everybody would want that. For some organization, they don't want that vetting module. You know, do you want to receive email before approving job application? So these are just some settings that would have put in place, that would determine some of the fluidness of how the application will work across board. So number of guarantors that are compulsory to, do you want see two or three previous employers. Because some people feel that three guarantors are too much, just leave it at two. But we don't want to start hard-coding that all the time. We have general settings and all that being said. The API for the SMS, because it needs to work with certain APIs to send SMS. Same thing for the SMTP, to say this, the login details to the SMTP, the routes, that the system routes email to. Once that is being said, Um, every other thing is fine. So things around the, uh, because we have greeting cards of people's birthday, the system automatically send greeting card, new year card. So, you know, when they are new designs, you can just upload them. Yeah. If a design is looking outdated, like 2024 new year, you'll just take it out at 2026 new year. So when it's new year, it picks a new year card and send to everybody within the system. So if you have more than one new year card, you just pick them around to users. So these are just the general settings around the system pretty much. The email template, so all the templates, all the messages within the system, even though it's pre-populated, the user can come here and say, well, I don't like the way my documentation mail appears. I want to edit it just to spice it up a bit or make it look different from the default one. And they can change that. Moving forward, everybody who goes through the documentation portal can receive this new mail. Same thing applies to the test messaging and every other messages, learning messages on the different modules, like when you pass the test, when you fail the test, when you should get the test instruction, and what have you. So I jumped on Activity Log at some point just to show you things happening within the system. So I can see that I added categories at the time. This is just for audit trail. Report pretty much this is this because the data we imputed here we just book uploaded data for the purpose of demo so you might not be able to see a very neat report but just to show you how the reporting would appear in some cases it just gives you a general view gives you some pie charts of the demographics so it tells you those within a certain status sorry let me use job seekers I think it's if I have something, something more generic to show. So the reporting is just that so that users can be able to pull, see a graphical view of the health of the system with graph and you can export based on the generated reports and away from the system. Like I said, because the data are not consistent, we just do that some data into jobs, we can do that some data into our body so that we can have this meeting. So the data are not, in sync with the profile as they were created organically. So that's why the report is not coming out as a shoot bet. Normally you have like about four or five graphs showing you how many male, how many female, how many clients, what states are these jobs coming from, who are applying, and you can export as a case maybe. So that's it for the technical look of the ClinHR in terms of how it works. Like I had mentioned is currently being used but not even this version the version before this one is being used in some of the top HR consulting firm here in Nigeria so that's it for me I don't know Any questions from anyone?
+
+1:13:39 - Omotayo Mosuro
+Yeah, we can hear you. We can hear you very well. Thank you. Yeah, you can ask. Go for it. Can you hear me? Yeah, we can hear you very well, yeah.
+
+1:13:57 - Aina Segun Aina
+Thank you. I just want to ask, when they're ready for deployment, I mean, should the client needs this addition.
+
+1:14:09 - Lu
+So make inquiries, when is it likely?
+
+1:14:12 - Unidentified Speaker
+Everything I think I can.
+
+1:14:15 - Lu
+Okay.
+
+1:14:15 - Lu
+Yeah, it's ready for deployment, two, three days. Two, three days. We have ready-made interfaces for the client usage. The only thing we'll just be working on is to run a final test on deployments, It shouldn't take a few hours. Make sure that the client is comfortable.
+
+1:14:45 - Omotayo Mosuro
+Okay. Any other questions? I guess I'll reserve one or two things.
+
+1:14:55 - Taiwo Ogunjimi
+I'll reserve most of the questions. Just before you go since it's a technical person here and in times of API or SFTP integrations if because of the UK market you will hardly find anyone using one application system and if they're using one application system they may want to integrate it with their say for example they're finding students, their student system. What are the thoughts or the roadmap in terms of looking at integration and integrating with this application?
+
+1:15:39 - Unidentified Speaker
+Sorry, I lost you for a bit.
+
+1:15:43 - Taiwo Ogunjimi
+Okay, so basically I'm just thinking ahead just because mainly you're more or less one of the technical people here, but in terms of integrating with other systems, have you guys talked about what you would do with that? Do you have kind of SFTP ability or API ability and what are your thoughts around that?
+
+1:16:13 - Lu
+Yeah, we already have a situation, so like two of our major clients already have a very accounting software and they can't do anything outside the accounting software. So we had to, at the point where they want to run their payroll, the system pushes data to the software using API. So we also have a situation where another client who uses, who have a, how do I call it, like this app for their verification officers who go on the field to verify, you know, here you have to to physically verify guarantors. In most cases, you go to confirm the addresses. And these information are being fed from our software using APIs as well. And once we've made an update, the API returns values that updates back into the system. So we are all open for integration, and we have experiences around that.
+
+1:17:15 - Taiwo Ogunjimi
+Great. Amazing. Colleagues for all that kind of questions but no great stuff and always great room for improvement as well.
+
+1:17:26 - Omotayo Mosuro
+Yeah 100% and with regards to the app itself we're not looking to compete with the big players in the market like the likes of walkday and others we're looking at the medium level organizations to to compete with and to provide services for and over time we then try to upgrade and see how we can leverage opportunities in the market. So there's a lot of things that I know we can take away from this meeting and also feedback that will be getting from yourself and from other people on the call. I think you want to ask a question, sorry you can go for it.
+
+1:18:10 - Ajala, Olayinka
+No, I think the last person something related, so it's fine. Thank you.
+
+1:18:16 - Omotayo Mosuro
+OK then, so which regards to the plug in and plug out you guys. The technical guys always we do have meetings every other day to look at how we can. Connect these applications to other things like every organizations have got things that they've got different application. I can mention in my own in my own organization we use teams. What they will use even in our stay load application as well and all they're all connected one way or the other to each other. So these are the kind of things that we already put into concentration while developing clean HR as well. So and I guess with the AI thing that you mentioned every tool that you you use now has got AI even WhatsApp just upgraded as well so there's AI connected to WhatsApp everything is now in So in future is something maybe in maybe the next phase of clean HR something we might look to. How to what we have just now so. But with regards to the demo that although I've done was, I would like to take maybe two sentence or two words kind of like, Your view about it. What do you think is it? Is there something that we should be excited about? Is there something that is interesting? We'd just like to take an honest feedback from everyone before we call it a day so we can end the conversation.
+
+1:19:54 - Unidentified Speaker
+Hi, it's Olayinka again.
+
+1:19:56 - Ajala, Olayinka
+I think it's fantastic, to be honest. I'm really, really impressed, especially with the the number of functionalities you are able to bring together into one place is really, really good. So kudos to you guys. Well done.
+
+1:20:15 - Unidentified Speaker
+Really good.
+
+1:20:15 - Omotayo Mosuro
+Thank you. Thank you. Thank you. And I will, I guess you're not, you're not part of this field up now, which I know, don't worry. I know that for sure. When, when, when you speak to someone who knows there are news that you can tell. So what we do after this call, I'll let you have your time to review, to think about it. Then I'll probably set something up with Lu as well. So we can discuss the feedback and also look at possibility and not possibility. Because for me, I believe everything is possible, but Lu always call me to what they're saying. Sometimes it's not, you know, sometimes there's we can look at alternative and things. So that's the way we put it. That's the next step to do it. It was to take all the feedback and see how we can work on all those feedbacks. So I'm on the call. The majority of people you have are bending. Can you go on mute please? So the majority of people we have on the call our silver show we have our staff in Nigeria. At this point in Abuja we have two of them on the call. As well. So, Kay, do you have a feedback?
+
+1:21:32 - Unidentified Speaker
+Yes.
+
+1:21:32 - Kay Ajayi1
+So, that's to what Taiwo was said, which is, I mean, she's made brilliant points and I know also mentioned something around control and access. So, yeah, during the demo you explained, and I just wanted to add to it, that yeah, this like Lufuda made reference to it that is going to be guidance around that. The reason why some of the features you're seeing today is because Lui is actually making use of the admin, and that's why. Secondly, Tyrell mentioned having a model or creating a target market, looking at the market, where are we going to be our target market, where are we going to try to meet up with their needs in the short time and then look forward to the long time. So I think at the back of this call my mission session. I don't know you're going to go back and then look at the maybe the demo again and then maybe guide us through some of the key features we can pull out. Maybe one in phases and then see if we can roll out as quick as possible and then order because we can do everything at once. Do this single sign or you mentioned we want to do the API connection and order that might take us longer time so it would be nice if we can have another session we've seen the features and then we can sort of pin out the ones we can roll into the market at this time and then test as well in the UK and then gather the feedback.
+
+1:23:16 - Taiwo Ogunjimi
+So I hope you're open to that.
+
+1:23:19 - Unidentified Speaker
+Absolutely.
+
+1:23:20 - Taiwo Ogunjimi
+what you just said and yes it'll be good to kind of catch up and kind of look at timescales and how we can kind of have some quick wins. Yes. And then push for the future.
+
+1:23:37 - Omotayo Mosuro
+Okay cool.
+
+1:23:40 - Omotayo Mosuro
+Thank you very much. I just want to say before everybody go down, I'd like to speak with Lu after this meeting.
+
+1:23:50 - Benjamin Areola1
+Okay, yeah, I think you raised that yesterday. Yeah, that's perfect.
+
+1:23:55 - Omotayo Mosuro
+I'll get this to stay at the end or we can quickly do something after this call. Mumeen, do you have anything to say before we call it a day? Nothing much.
+
+1:24:09 - Unidentified Speaker
+So far so good.
+
+1:24:10 - Mumeen Moshood
+Pretty nice demo by Lu. Excellent work so far. And I think Taiwo already gave a lot of the feedback, some of the feedbacks I would have loved to give as well. And yeah, so I think we're in a very good place. Yeah.
+
+1:24:26 - Unidentified Speaker
+All right.
+
+1:24:27 - Omotayo Mosuro
+And so we'll come to an end of today's demo session. So what will happen is this. Guys, thanks for attending today's demo. It was set up for one hour and we've gone past it. It must be really interesting for us to stay behind till now. What we'll do is this, we'll work on whatever feedback that has been given to us. Sometimes in the next couple of weeks or three weeks from now, we'll probably set up something again just to let you see what we've worked on again till we can have a final demo where there won't be any demo after that. This is just a good one to get to let people give honest opinion on what we are working on. So that should, and that will also encourage us to keep going. So guys, thanks for your time and thanks for your feedback. And if anything comes to mind after the call, you can always reach out to me either through WhatsApp or call. Just let me know, then we can pass on the feedback to Lu to work on it. All right. Have a wonderful sunny afternoon, everyone, and God bless you. Take care. Thank you, guys. All the best. All right. Bye. Bye. Luke, can you just stay behind for Ben and Taiwo? Yeah. OK. It's just us now, so.
+
+1:25:59 - Benjamin Areola
+Yeah, I know.
+
+1:26:01 - Kay Ajayi
+Wait, before you go on, it's time for male or female because I don't even know where to start. Can we stop recording first so we can start? Alright. Um...
+
+1:26:14 - Unidentified Speaker
+Yeah, stop recording.
+
+1:26:15 - Omotayo Mosuro
+I was spilling. Okay, that's fine.
+
+1:26:18 - Omotayo Mosuro
+I think it's a male though.
+
+1:26:20 - Unidentified Speaker
+Okay.
+
+1:26:21 - Omotayo Mosuro
+You think? It's a male.
+
+1:26:23 - Unidentified Speaker
+It's a male.
+
+1:26:24 - Unidentified Speaker
+You sure?
+
+1:26:25 - Omotayo Mosuro
+Don't whine. Ah, don't cry.
+
+1:26:27 - Benjamin Areola
+No, no, it's how you started, you think?
+
+1:26:31 - Omotayo Mosuro
+I wasn't sure before the call, that's why I was being mindful to address someone who is a she, a he. Exactly.
+
+1:26:41 - Benjamin Areola
+So I've just been careful. Yeah, they provided a way in English for us to use they for them. Just use they. Just use they, them. Thank you for the job blog that you provided. We were able to test it yesterday but it wasn't working as it should. What we noticed is once you load, you put an advert into it, it causes other previous ones not to shoot.
+
+1:27:23 - Lu
+like it disables them so that's on the silver share website I mean yes john bull is that the name of the error no the developer's name is john when he has messed up that then I call him john bulls if he's doing fine we call him john go If you know how much Ben has been waiting to give you back. I tested it from my hand.
+
+1:27:57 - Kay Ajayi
+I was surprised.
+
+1:27:59 - Lu
+I'll just check it out again. Okay. You see?
+
+1:28:03 - Kay Ajayi
+Now Maxine, you said you tested from your hand. Yeah, yeah.
+
+1:28:07 - Lu
+You know, usually we have like a staging server before Moonblive and there's usually no difference. It's just that one is local one is live so if it works here it should work perfectly on the other end so yeah okay I'll just yes I'll just make sure that I run the entire test even on the live yeah like what um carry on please carry on lou yeah no no sorry I was talking I'm talking to John here. He's with me.
+
+1:28:45 - Kay Ajayi
+I mean, we logged on yesterday and we tried to add some jobs and we noticed that the new ones we added usually is the last one. So that gives me a signal that we will need to, which adds to what Taiwo will say today on the call, that we need to start looking out for probably the scope payroll. But I don't want to build an app where we can roll out and then tell our clients that we can do as much as possible and all that. But I would think it could just put those features on the paper and then see the ones that we can roll out and then see the ones that we might add on by telling them that still in the pipeline. Why? Because we need a proper, a thorough test of some of the key ones that will be rolling out to the UK. I know it's working, I know clients are making use of it in Nigeria and all that, but even if we have just maybe, at the moment I think we have over five or six models, if out of that five models that are currently working in Nigeria, we are only going to roll out two or three in the UK for its stats. Some of our friends of ours will be using it to manage those things, why they still use HR2. That way, aside from the fact that we're going to thoroughly test it before we roll it out, that's just that three modules. We can also use those friends and family partners that will be coming on the tool to also thoroughly test the tool before we roll out and then she used the word, a quick win. So I think that would be the next direction we should look out for Taiwo. Yeah.
+
+1:30:44 - Unidentified Speaker
+Yeah.
+
+1:30:44 - Benjamin Areola
+I don't know. Maybe it's Taiwo or someone. No, it's not Taiwo. I don't know. Maybe someone mentioned the API stuff. I just want to say this, that every of those modules, if it's possible, let's just create API for the ones that will be running out so that I'll be able to consume and stuff. That would be very nice. I'm sure most of this company may not use everything, I'm sure. But if it's just available I need something I can pick it up and I want to put in something I can put it there.
+
+1:31:29 - Kay Ajayi
+I think it would be nice. Starting from looking at our own markets, in fact, I don't think the kind of clients we are looking for at the moment is to be more particular about APIs, which is why I think we can roll out. SilverShare at the moment, I don't think there's any API we are connected to. Care homes and the rest, this is just going to be their tool for managing their staff. So they might not be connecting to teams, connecting to another store for now, you know. So we can quickly attack those small companies, you know, if you get what I mean, Lu. And then by the time we scale and grow, we can start looking at for each model with zone name, API, and the rest. Or could there be any reason why we might likely try to have the complete tool before we roll out? Because you also mentioned that, can you hear me, Lu? Are you there? Oh, no. Okay. Back to us, Gaben. Why SSO is because I said there is a need for us to have a complete. Actually, there's no need.
+
+1:32:57 - Benjamin Areola
+There is no need. By the time people start using an application or you start using something and you are used to it, you don't want to throw it away.
+
+1:33:09 - Kay Ajayi
+You just want to plug more things into it yes yes based on experience based on experience yes just let them know that those stress they are going through there's no solution in the app that's exactly I don't want to make it look good but at the moment that's the app itself is so fantastic how many happened the uk will send their employers employee message for birthday or this or that or grant us It's always third party, it's always something else. There's always some third party tool that they will use. So as much as we might like to integrate all of them together as one particular platform, our target market doesn't really need all of that. So we don't waste time trying to get some things done and we might not really need it. The major ones that I think we do have and I think is working, but we've not really tested it. This is our job board. So we probably need to do it.
+
+1:34:27 - Benjamin Areola
+No, that one is like what Lu explained. I understand that. Test something on, I mean, on a test platform before it comes to production. And probably some things have changed. Some parameters are not the same or some of the dependencies are not moved. Something happened.
+
+1:34:53 - Lu
+I was out for a bit, I'm back.
+
+1:34:57 - Kay Ajayi
+Yeah, so we just mentioned, I mean, it felt like we were repeating ourselves, but it's still aligning to, if it's possible for us to have like a roadmap, like that lady said, with Taiwo and the rest of us, Silver Show.
+
+1:35:21 - Lu
+um while we know that we can modify any of the modules nice to have declare modules so that you know you are targeting this category of people they will have that module where they work the package and everything 100 percent right yes so once we have that 100 that one working we're carving out that part of the solution not like we're cutting it out We'll now make sure that that one has no bugs. It's working perfectly. It meets the requirements and everything. So let's start, and we know that that's CleanHL UK. Whatever improvement we're doing, we'll be building on that. That one, yes.
+
+1:36:04 - Kay Ajayi
+You already mentioned that the current one, most of the companies in Nigeria are using. It's not even as updated as this one, and they are currently making use of it. We can even package some of these ones again and ship it to as CleanHR UK and then still, you know, work behind the scenes to update it more. So, yeah, we're just waiting for this call anyway to just, you know, pinpoint some of the things. So, Taiwo, Jamila, I think they will go back to this person and then see if there are quick, yeah, quick must-have requirements even if you're just trying to ship out three out of the whole of five models. But before we can ship out those three, there should be some must-haves. So we'll go have those must-have conversations, and then get back to you with a proper design of what phase one release should look like, Then we'll know that that release is going to be the clean HR UK.
+
+1:37:14 - Unidentified Speaker
+Yeah. That makes sense.
+
+1:37:16 - Kay Ajayi
+That helps efforts management and all of those things.
+
+1:37:21 - Unidentified Speaker
+All right.
+
+1:37:22 - Kay Ajayi
+That makes sense. I used to call it a day because it's very, it's Mr.
+
+1:37:31 - Unidentified Speaker
+Time.
+
+1:37:32 - Unidentified Speaker
+I don't think that is there.
+
+1:37:35 - Kay Ajayi
+It looks like that has engaged something else.
+
+1:37:41 - Lu
+Yeah, I'll just follow up.
+
+1:37:44 - Kay Ajayi
+No problem, no problem. Thank you very much, man. Thank you very much.
+
+1:37:53 - Unidentified Speaker
+Yeah, cheers, bye.
+
+1:37:55 - Unidentified Speaker
+My former in-law.
+
+1:37:57 - Kay Ajayi
+Going to damage their CV.
+
+1:38:00 - Benjamin Areola
+I did, yeah, I did. It was a nice section, though.
+
+1:38:11 - Kay Ajayi
+Very, very good. But I think there are some things still in engineering you can tally up, you know.
+
+1:38:20 - Unidentified Speaker
+Sharing.
+
+1:38:20 - Benjamin Areola
+Like I keep saying. And more feedback you really can share, be well, but at the end of the day, that is why most of the time we just delay pushing things out.
+
+1:38:34 - Unidentified Speaker
+Yes.
+
+1:38:35 - Benjamin Areola
+We are so much overrated. These are what I've seen since I got it. Even in some aspects, they are not as advanced as where we are coming from What we have now, if we push it out, we get the whole market.
+
+1:38:57 - Kay Ajayi
+Yes. One thing that I already mentioned about high-level dashboard reporting must have Most care homes don't have that. Most small care homes don't have that. It's mouth to mouth. Oh, I have a job opening next week, blah, blah, blah. They will generate a link for you to go and complete this thing. And then they will schedule an interview. And from there, congratulations, you have a job. So all those job adverts roadmap that these guys share, meaning adverts, core tests in Google and want to skip Google processing. They are just starting from generating offer letter and then onboarding the person, that's all. So we can skip all of those ones. Because if you look at it again in the UK, most, if you look at major jobs, it goes on a job board just like CWB, that's a lot of annoyance. If you talk about CW jobs, tell me about success, tell me about application, show me who was on the website, application you want to find me. Then this application will be the one to decide yes or no. You see? So to make it possible that it connects to most of those, which I really don't know how it's working in it. That's another part.
+
+1:40:21 - Benjamin Areola
+The only thing that system does there is, the reason why you get your response immediately is that it just compares some keywords. CVA. Yes. If those keywords are not there, it throws it out.
+
+1:40:37 - Kay Ajayi
+But does that mean the person applied through their websites? Because if you're applying through their website, then it means you're using this application.
+
+1:40:53 - Unidentified Speaker
+Okay.
+
+1:40:54 - Kay Ajayi
+Clean HRE. Yeah. She adverts. So most of the time when you're doing the advertising on your website, which I believe it's going to be linked to clean nature. So your website, you want to collect and apply for sharing.
+
+1:41:09 - Benjamin Areola
+No, no, no, no.
+
+1:41:12 - Kay Ajayi
+They push it to those people.
+
+1:41:14 - Benjamin Areola
+Which people?
+
+1:41:14 - Benjamin Areola
+Job bots? Yeah, to all those job bots. They have API. That's, you know, we're talking about, we're talking about, um, About publisher and consumer yesterday. Yes, publisher and subscriber. Yes. When we're talking about RabbitSQ or something, I know we said something about this yesterday.
+
+1:41:34 - Unidentified Speaker
+Yes.
+
+1:41:35 - Benjamin Areola
+Now, there are some job boards that are virtually subscribed to certain type of jobs.
+
+1:41:43 - Unidentified Speaker
+Okay.
+
+1:41:43 - Benjamin Areola
+So when people just, and they have registered with different companies, those companies have a place where they push their job to, and this job board just go pick what they want to advertise there. That's what I don't understand now, but they all use Q and topics, and they use this publisher and subscriber principle.
+
+1:42:09 - Kay Ajayi
+My point is, for instance, the job appears on CWP, CW jobs, and then you apply. If that application link to, does CleanHR get that information? It should. It should. It should. And that is when you submit your stuff on total jobs or something.
+
+1:42:29 - Benjamin Areola
+It will tell you that we have now submitted to the, is it to the agents or to the company? We are waiting for your review. And after three days, they tell you that your CB has right? We are waiting for their feedback. Have you noticed that before?
+
+1:42:50 - Kay Ajayi
+Yeah, yeah, yeah, yeah. And sometimes if it's a machine level HR system that company is using, they will tell you that you have to go to that company to go and complete your registration or job application.
+
+1:43:05 - Benjamin Areola
+Something like that. So those things are linked. Okay, okay.
+
+1:43:09 - Kay Ajayi
+But do we need that level?
+
+1:43:11 - Benjamin Areola
+No, we don't for now. Just to get into the market, we don't.
+
+1:43:21 - Kay Ajayi
+Because our own job is to do it. It's those exceptions.
+
+1:43:34 - Benjamin Areola
+Yes, now that's why I'm saying that.
+
+1:43:42 - Kay Ajayi
+What makes sense though?
+
+1:43:46 - Kay Ajayi
+Social business, yeah, yeah, yeah.
+
+1:43:50 - Unidentified Speaker
+Too much.
+
+1:43:52 - Unidentified Speaker
+What makes sense though?
+
+1:43:56 - Kay Ajayi
+If you can pull it from there.
+
+1:44:03 - Omotayo Mosuro
+If you can pull it from there. Okay, should we catch up tonight at 6pm or 7pm? Let's do 7pm tonight, please. Okay, no worries, Alassa.
+
+1:44:22 - Kay Ajayi
+We are just looking at how we can reduce what we ship to the UK and just roll it out as quick as possible.
+
+1:44:38 - Omotayo Mosuro
+Yeah, because I just messaged me now saying that that ID Mr. I know he is doing a lot of marketing of doing the time Nigeria that we should. We need to work on the pricing. I say I guess we find out that there's still work to do.
+
+1:44:53 - Benjamin Areola
+We can't jump into that at this point yet.
+
+1:44:56 - Benjamin Areola
+Yes. What we have on grand is enough for us to start with now that there are so much work because the company already using it.
+
+1:45:04 - Omotayo Mosuro
+Yes, so we can actually push it out even in the UK what this application has not so much application has it in the UK yes yes true true okay you know what let's let's tomorrow's call let's look at it let's look at everything and okay do you want to reach out to Lu to give us a login details so which you can oh what is true I think he has it I think he has the login he sent the login one time which login again is that It's too clean nature. I'm not sure I do have it.
+
+1:45:37 - Kay Ajayi
+I will get it.
+
+1:45:38 - Omotayo Mosuro
+I'll get it for tomorrow. So let's go tomorrow. Let's look at it so we can start looking at how we can start using it, how we can start looking at other things. Because that brush is asking a valid question about AI and things.
+
+1:45:54 - Kay Ajayi
+So we can.
+
+1:45:55 - Omotayo Mosuro
+Yeah, it's valid but not immediate.
+
+1:45:57 - Omotayo Mosuro
+Yes. Everything is AI now. Those things are not immediate.
+
+1:46:01 - Benjamin Areola
+How many of this HR stuff has this AI that we're talking about? It doesn't have to be your HR thing.
+
+1:46:10 - Omotayo Mosuro
+If it's compliant, if it's compatible with AI, you can just ask questions. Sometimes AI is not there to give you answers. It's just there for you to ask questions within that system itself. We don't even need AI because templates are already in that system.
+
+1:46:29 - Kay Ajayi
+For me, I think what we need to do is we can have a 30-minute session with Taiwo again and maybe Hida and Noga if it's the marketing person. Then we will draft out the must-have that this tool needs to have for UK markets based on what we already have. The iKnow is in Nigeria. Yeah, I'm just okay. We can take the iKnow out. Have a call with Taiwo which is why we wanted Taiwo to be in that call, like an HR expert. Just some of the issues we felt we might not be able to roll out to the UK market. Number one, the HMRC policy and all of those things. Can we still have these two working in the UK without pulling any data from HMRC and all of those things? Then that sort it out. Can we tell the customers to go do their recruitment process outside the tools? And then we just start by offering them offer letters and all that, just like what we did with BrightHR, which I know the answer is yes. What exactly can we pull out in this tool that makes the O2 make sense? If it says, okay, this, this, maybe just mention four or five things that we must make sure we have before we roll out, then we can design an approach for that. Then if that approach is something we can ship out in the next maybe one month or two, we begin to do work on that. If along that two months, Blue felt they can add AI to it. What I'm saying AI is because we need to also add a wow factor into whatever we ship out for the first round. You know, if people hear the word AI, even if the AI we're adding is just chat box or just generate something as just as simple as possible, just generate information and put it there. We can go back and say our own area, our own HR is the first that have AI or whatever we want to add to it.
+
+1:48:29 - Omotayo Mosuro
+But we just need to prioritize.
+
+1:48:33 - Kay Ajayi
+We just need to put out a list of small things we can rule out. Then we can look for maybe that AI one factor. If it doesn't come in, fine. If it comes in, then good. But we just need to have that timeline. And now that we have somebody to have the idea of what we want to roll out, it's good to now go back to that person one-on-one and then ask those questions. Then we can now use those informations to design what first phase of UK release will look like, But I don't want us to rush into it and say, okay, we want to roll out, roll out, roll out.
+
+1:49:18 - Omotayo Mosuro
+Can we have a session with Taiwo?
+
+1:49:22 - Unidentified Speaker
+Taiwo.
+
+1:49:23 - Benjamin Areola
+Because he will be the one to look at what he's used to as an HR person and tell us that these are like must-haves.
+
+1:49:39 - Unidentified Speaker
+Yes.
+
+1:49:40 - Kay Ajayi
+So let's, maybe we'll leave that conversation to tomorrow Okay, I have to drop.
+
+1:49:58 - Kay Ajayi
+I'll catch up with you guys later.
+
+1:50:15 - Kay Ajayi
+We can have that conversation tomorrow. We'll just let Jamila know that. We'll need another maximum, maybe 30 or one hour with that guy. Yeah, I see most of the things that the two can do. We can get maybe another slide from Lu for the call. So this time it's not going to be all those technical.
+
+1:50:38 - Benjamin Areola
+We share with Taiwo the list of that our comparison. That would be the best thing to have him look at.
+
+1:50:46 - Unidentified Speaker
+Yes.
+
+1:50:46 - Kay Ajayi
+We can share the list of whatever we have to have, and then she can use that information to tell us things that we can ship out. That one now, we can use maybe two to three weeks to continue to test and test and test before we now say, okay, we roll out.
+
+1:51:05 - Benjamin Areola
+I think Civil Share should even deploy the application. We start using it in-house, we start knowing what We need to deploy it. Yes, like we deploy and they will be using it, right?
+
+1:51:17 - Kay Ajayi
+Yeah, yeah, yeah, that's it. We are not using. We have not deployed now. With these people to this for sure people and we have a couple of people that that we can reach out to that have all these small small businesses that come and do try out with us for maybe like 7 days before call it there to £2 or £10. Why are you laughing?
+
+1:51:45 - Benjamin Areola
+You said it as if Naa Ossan really sold for you.
+
+1:51:51 - Kay Ajayi
+Naa Ossan, I wish you were here.
+
+1:51:54 - Benjamin Areola
+I wish you were here.
+
+1:51:56 - Kay Ajayi
+Actually, I have a lot of jobs. I have almost 20 something, I have 16 million, I have 20 something million of food products. I can't cook. That's a beauty giant. Silver share now from Google Deployment and Development on security.
+
+1:52:16 - Benjamin Areola
+That I want to be honest, it should be understand Sebastian J on the system. You know what you're Sebastian system.
+
+1:52:26 - Kay Ajayi
+You know when you're Sebastian, Sebastian, J Lou, I'm going to 16,000,000. Google application you want to create application Ghana. Loan and finance. Are people using it?
+
+1:52:40 - Benjamin Areola
+Are we making money from it? Not yet.
+
+1:52:44 - Kay Ajayi
+So, I don't know.
+
+1:52:46 - Benjamin Areola
+Where are we? Where are we going basically without making the
+
+1:52:51 - Kay Ajayi
+I don't know.
+
+1:52:53 - Kay Ajayi
+That's the estimated cost of the application. To create the application and then current management of Silver and the rest. I think that's what's some total that amount of money.
+
+1:53:09 - Benjamin Areola
+Are they using this clean HR in SilverShare global stuff?
+
+1:53:15 - Unidentified Speaker
+Yes sir.
+
+1:53:16 - Benjamin Areola
+Is SilverShare globally or in all the

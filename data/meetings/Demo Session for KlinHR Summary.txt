@@ -1,0 +1,89 @@
+Demo Session for KlinHR
+Tue, May 20, 2025
+
+Summary:
+
+The session centered on the KlinHR tool, with a focus on its functionalities and gathering feedback for improvement. Omotayo Mosuro initiated the discussion, while Lu provided a comprehensive demonstration of the KlinHR solution, showcasing features designed for both job seekers and HR teams. Key functionalities highlighted included automated candidate assessments, interview scheduling, and the streamlined recruitment process that invites qualified candidates based on their applications.
+
+Lu elaborated on the system's capabilities for managing candidates, including the assignment of candidates to clients and departments, payroll settings, and the generation of notifications for HR personnel. He also detailed the process for creating and validating offer letters, as well as the onboarding process for new staff, which includes access to a health service portal and functionalities for leave applications, appraisals, and grievance submissions. The discussion emphasized the importance of user interface functionality over aesthetics, as raised by Taiwo Ogunjimi.
+
+Concerns regarding the platform's functionality were addressed, particularly by Benjamin Areola, who noted issues with new job postings disabling previous ones. Kay Ajayi advocated for a cautious rollout in the UK, suggesting a focus on key modules and thorough testing prior to launch. The team agreed on the necessity of a roadmap to prioritize essential features and ensure the platform meets client needs effectively, with discussions on the potential integration of APIs for greater flexibility.
+
+The conversation also included the job opening process, emphasizing the importance of efficient offer letter generation and onboarding. The team, led by Kay Ajayi, discussed compliance with HMRC policies for the UK rollout and identified essential features for the market. While Benjamin Areola expressed confidence in the existing capabilities for initial deployment, Omotayo Mosuro suggested further clarification of necessary functionalities. The team agreed to draft a list of must-haves and conduct tests before the official launch, while also considering future enhancements, including the integration of AI features.
+
+
+Chapters & Topics:
+
+Demo Session for KlinHR
+Omotayo Mosuro led the discussion on the KlinHR tool, emphasizing the need for feedback on its development. Lu demonstrated the CleanHR solution, showcasing its functionalities for job seekers, including application processes and profile management, as well as features for HR teams, such as job posting and user role management.
+* Customization of the HR tool for the UK market.
+* Overview of the HR tool features and functionalities.
+* Next steps for feature prioritization and improvements.
+
+KlinHR Application Tracking System Overview
+Lu provided an overview of the KlinHR application tracking system, emphasizing its automation capabilities. Candidates who apply for jobs are automatically assessed and invited for interviews based on their qualifications, reducing the manual workload for HR teams. The system also includes features for onboarding and document verification, ensuring a comprehensive approach to candidate management.
+
+Candidate Assignment and Offer Letter Generation Process
+Lu outlined the procedure for assigning candidates to clients, highlighting the integration of payroll settings and salary bands specific to each client. He described how notifications are sent to relevant HR personnel when a candidate is assigned, and detailed the process of generating offer letters using pre-populated templates. The offer letter is reviewed by a senior HR person before being sent to the candidate.
+
+Demo Session Feedback and GDPR Considerations
+Taiwo Ogunjimi expressed his intent to review the demo and gather feedback, while Omotayo Mosuro encouraged participants to share their thoughts during and after the session. Omotayo also clarified that the current focus is on the app's functionality rather than its user interface, which will be addressed later. Ajala Olayinka raised concerns about GDPR compliance and data access levels for different user roles.
+* Feedback collection from participants regarding the demo.
+* Discussion on GDPR compliance and data privacy measures.
+
+Overview of KlinHR Employee and HR Portal Features
+Lu discussed the KlinHR system's features, emphasizing the onboarding process for new employees, which includes notifications and access to essential documents. He outlined how staff can manage their leave applications, appraisals, and grievances through a user-friendly dashboard. Additionally, Lu mentioned the HR team's capabilities in handling employee requests and tracking grievances.
+
+Appraisal and Assessment Setup in KlinHR
+Lu provided an overview of the appraisal setup in KlinHR, highlighting the ability to assign KPIs to specific roles and initiate appraisals for employees. Notifications are sent to employees and their managers during the appraisal process. Additionally, Lu discussed the assessment module, where administrators can create assessments tailored to specific roles, including setting question types and passing criteria.
+
+Client Configuration and Payroll Setup in KlinHR
+Lu outlined the steps for configuring clients within the KlinHR application, emphasizing the importance of specifying employee access and clocking settings based on geolocation. He detailed the payroll setup process, including how to establish salary bands and manage deductions and allowances for different employee levels.
+
+User Account Management and System Features Overview
+Lu explained the process of creating user accounts and assigning privileges within the system. Omotayo noted that the platform is currently being utilized by several organizations in Nigeria and plans to replicate its success in the UK with additional features. Taiwo expressed his impressions of the platform and raised points regarding the importance of AI-driven functionalities and security measures.
+
+Demo Session for KlinHR Feedback and Integration Discussion
+Lu detailed the functionalities of KlinHR, emphasizing its deployment readiness and integration with existing client systems through APIs. Omotayo Mosuro led the conversation, inviting participants to share their thoughts and feedback on the demo. Taiwo Ogunjimi raised questions about future integration possibilities, which Lu confirmed are already in place with some clients.
+* Integration capabilities with other applications and systems.
+* Future enhancements and AI-driven features for the HR tool.
+* Feedback and impressions from the demo session.
+
+Discussion on KlinHR Testing and Rollout Strategy
+Benjamin Areola reported problems with the KlinHR platform where new job postings were interfering with existing ones. Kay Ajayi stressed the importance of conducting thorough tests on the modules intended for the UK rollout, proposing that only a few key features be launched initially. He also mentioned the potential for API development to enhance functionality as they scale.
+
+Job Application Process and System Integration
+Kay Ajayi highlighted the streamlined job application process, suggesting that the focus should be on generating offer letters and onboarding rather than traditional job board frustrations. Benjamin Areola elaborated on the system's functionality, noting that it uses keyword comparisons to filter applications. They also discussed the integration of job boards and how applications are processed through various platforms.
+
+Discussion on KlinHR Rollout and AI Integration
+Kay Ajayi highlighted the urgency of rolling out KlinHR in the UK while ensuring compliance with HMRC policies. Benjamin Areola noted that the current capabilities are sufficient to start, while Omotayo Mosuro proposed a meeting with Taiwo to determine must-have features for the UK market. The team agreed to compile a list of requirements and test the application before the official launch.
+* Market strategy for the UK and target audience considerations.
+
+
+Action Items:
+
+* Olu will continue the demo session and provide detailed explanations of the HR tool features.
+* Lu will address the feedback regarding the AI-driven features and dashboard analytics in future iterations of the HR tool.
+* Lu will run a final test on the deployment of the ClinHR system to ensure everything is functioning correctly.
+* Omotayo Mosuro will set up a follow-up meeting with Lu to discuss feedback and next steps after the demo session.
+* Omotayo Mosuro will ensure that GDPR compliance measures are implemented before the app is launched.
+* Omotayo Mosuro will follow up with participants after the call to gather feedback on the HR tool.
+* Omotayo Mosuro will gather feedback from participants after the demo session and pass it on to Lu for further improvements.
+* Taiwo Ogunjimi will coordinate with the team to identify must-have features for the UK market based on the demo feedback.
+* Lu will follow up on the discussed matter to ensure progress and address any outstanding issues.
+* Kay Ajayi will draft a list of must-have features for the CleanHR tool to ensure it meets the needs of the UK market.
+
+
+Key Questions:
+
+* What measures are being taken to ensure GDPR compliance in the HR tool?
+* How will the HR tool be tailored to meet the specific needs of clients in the UK market?
+* What specific features should be prioritized for the UK market?
+* What are the integration capabilities of the ClinHR system with other applications?
+* What feedback do participants have regarding the demo of the ClinHR system?
+* What are the next steps for improving the ClinHR system based on feedback?
+
+
+Notepad:
+
+* No notes

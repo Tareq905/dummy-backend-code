@@ -1,0 +1,45 @@
+SKRHYB Project Kick-off Meeting 
+Tue, Jul 29, 2025
+
+Summary:
+
+The SKRHYB project kick-off focused on the development of two applications: one for businesses to manage subscriptions and another for users to find services. Areej introduced Sahibzada as the design lead, while Wale provided an overview emphasizing the need for a user-friendly experience that allows users to track spending and find services within their budget. The project will be executed in two phases, with a tight timeline aiming for completion before the Web Summit in February. Wale discussed the app's goal of simplifying access to services through a centralized subscription model, which could also assist small businesses in securing loans.
+
+The target audience is primarily professionals aged 20 and above, with some university students included. Wale proposed a dynamic calendaring system with a drag-and-drop interface for service providers, highlighting the need for simplicity and push notifications for client changes. The branding strategy was also addressed, with plans to rethink the logo and color scheme, and communication will be facilitated through WhatsApp and Slack. Wale encouraged direct communication for any project-related questions, and Sahibzada assured that his design team is prepared to take on the project.
+
+
+Chapters & Topics:
+
+Project Overview and Design Discussion
+Areej Shamshad welcomed participants and introduced Hassan as the design lead for the SKRHYB project. Wale Agbaje explained the project's aim to create a marketplace app for users and small businesses, detailing subscription tiers and user experience features. He highlighted the complexity of the application and the importance of a clear design process.
+* User Experience: Emphasis on creating a simple and intuitive user interface.
+* Project Timeline: Importance of having the app ready before the Web Summit in February.
+
+Discussion on SKRHYB App Features and Target Audience
+Wale Agbaje shared his personal experiences with subscription services and the desire to create a platform that offers both service access and financial support for small businesses. Sahibzada Hassan Mansoor Bugvi asked if the app would focus on local services and confirmed that the primary user demographic would be individuals aged 20 and above, including professionals and some university students.
+* Project Overview: Discussion of the app's purpose and features.
+
+Dynamic Calendaring and User Experience in SKRHYB
+Wale Agbaje proposed a dynamic calendaring feature for the SKRHYB platform, allowing service providers to easily set their availability and manage time slots through a user-friendly interface. He suggested implementing a drag-and-drop functionality similar to Outlook or Google Meets, which would enable users to adjust their schedules effortlessly. Notifications would alert service providers of any changes made by clients.
+
+Project Communication and Branding Discussion
+Sahibzada Hassan Mansoor Bugvi and Wale Agbaje addressed the branding for the Scribe project, with Wale mentioning he has a logo and is open to rethinking the design. They agreed to use WhatsApp and Slack for project communication, with Sahibzada committing to create a Slack space. Wale also encouraged open communication regarding project features and requirements.
+* Branding and Design: Review of the logo and branding guidelines for the Scribe app.
+
+
+Action Items:
+
+* Wale Agbaje will email the logo and branding details for the Scribe app to Sahibzada Hassan Mansoor Bugvi.
+* Sahibzada Hassan Mansoor Bugvi will create a Slack space for project communication and send the invite to Wale Agbaje.
+* Wale Agbaje will review the requirements document to ensure clarity and understanding before proceeding with the project.
+
+
+Key Questions:
+
+* What features will the app include to enhance user experience?
+* How will the app ensure a simple user experience despite its complexity?
+
+
+Notepad:
+
+* No notes

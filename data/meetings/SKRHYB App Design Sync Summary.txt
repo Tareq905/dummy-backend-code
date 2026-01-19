@@ -1,0 +1,74 @@
+SKRHYB App Design Sync
+Tue, Aug 12, 2025
+
+Summary:
+
+The discussion centered on the design and functionality of the SKRHYB app, focusing on branding, user onboarding, and essential features. Wale Agbaje and Sahibzada Hassan Mansoor Bugvi reviewed initial design concepts, including the logo, color scheme, and typeface. They emphasized the importance of a streamlined onboarding process for both subscribers and businesses, highlighting identity verification and accurate business information. Wale proposed integrating Google API to facilitate the onboarding experience by pre-filling business details, which would enhance user engagement and simplify the process.
+
+A significant aspect of the conversation involved the development of a simulation tool for service providers, allowing them to estimate potential earnings based on their service pricing and subscriber numbers. This feature aims to create an interactive experience similar to fitness apps, encouraging users to engage with the app from the beginning. Sahibzada supported this idea, and both participants discussed the importance of aesthetics and user experience in driving engagement.
+
+Wale provided an overview of the business profile features, which include essential details such as business name, logo, services, and customer ratings. They discussed the need for a robust booking system that allows users to manage appointments effectively, as well as the importance of clear billing practices for missed appointments. Analytics and insights for businesses were also highlighted as crucial for tracking performance and facilitating loan applications. The conversation underscored the necessity of clear terms and conditions to prevent disputes between subscribers and service providers.
+
+The team explored various subscription models, including monthly, quarterly, and annual options, along with a referral program to enhance user retention. Wale introduced the "Smart Budget Match" feature, which allows users to find services within their budget, and discussed personalization through service recommendations and flexible subscription plans. They also addressed the need for a dynamic calendar for service providers to manage their availability effectively. Overall, the discussion was productive, with both participants agreeing to continue refining the app's features and design in future sessions.
+
+
+Chapters & Topics:
+
+SKRHYB App Design Discussion
+Wale Agbaje and Sahibzada Hassan Mansoor Bugvi reviewed the branding for the SKRHYB app, with Sahibzada requesting the logo in .svg format. They explored user onboarding strategies, highlighting the need for verification processes for both subscribers and businesses. Wale emphasized the potential to import business information from Google to streamline onboarding.
+* Branding and logo requirements for the Scribe app.
+
+Earning Potential Simulation for Service Providers
+Wale Agbaje emphasized the importance of an interactive simulation for service providers to calculate their potential earnings before they register for the SKRHYB app. By entering their service charges and subscriber counts, users would receive visual feedback on their earnings, which could motivate them to sign up. Sahibzada Hassan Mansoor Bugvi suggested modeling this feature after fitness apps that show users their progress based on input data.
+
+Document Review and Design Discussion
+Sahibzada Hassan Mansoor Bugvi expressed the need to make sense of several documents related to the SKRHYB app design, including a proposal and an extensive Excel sheet. Wale Agbaje suggested reviewing the Excel document specifically, as the other documents seemed self-explanatory. They discussed the high-level nature of the Tocodex proposal and its summarization of the project.
+
+Business Profile Features and Booking System Discussion
+Wale Agbaje discussed the design of business profiles for the SKRHYB app, highlighting the need for detailed information such as business name, services, and customer reviews. He stressed the significance of integrating a booking system that allows users to select time slots and manage their appointments easily. Sahibzada Hassan Mansoor Bugvi contributed by suggesting features similar to calendar apps for managing bookings.
+
+Admin Dashboard and User Features Discussion
+Wale Agbaje outlined the key features of the admin dashboard, which will be web-based and allow business owners to manage users, track transactions, and handle support tickets. The design will not be custom-built but will require some adjustments to align with specific requirements. Additionally, the discussion covered user registration, business dashboards, and consumer interfaces for service discovery and subscription management.
+* Features and functionalities of the app, including verification and user engagement.
+
+Subscription and Referral Features for SKRHYB App
+Wale Agbaje outlined the subscription model for the SKRHYB app, suggesting multiple options such as monthly, quarterly, and annual subscriptions, along with a one-time service choice. He emphasized the importance of a referral program that incentivizes users to invite friends and businesses, which could improve user retention. The discussion also included features that allow users to share services with their contacts to encourage app downloads.
+
+Smart Budget Match Feature Discussion
+Wale Agbaje introduced the "Smart Budget Match" feature, designed to help users find services within their budget by allowing them to input a maximum spending limit and select desired services. The app will then provide a list of options that meet these criteria. Sahibzada Hassan Mansoor Bugvi asked for clarification on whether this feature would be part of the onboarding process, to which Wale clarified it would be a search filter within the subscriber section.
+
+App Features and Personalization Strategies
+Wale Agbaje outlined key features for the SKRHYB app, emphasizing personalized service recommendations, flexible subscription options, and a user-friendly rating system. Sahibzada Hassan Mansoor Bugvi expressed concerns about the complexity of multi-user access for subscriptions, suggesting that users might prefer direct communication with service providers instead. Wale agreed to simplify certain features based on this feedback.
+
+App Design Features and Referral Program Discussion
+Wale Agbaje outlined a referral program for the SKRHYB app, suggesting that service providers offer monetary rewards to users for bringing in new subscribers. He emphasized the importance of designing features that clearly communicate potential earnings to service providers, including a simulation tool for estimating earnings based on subscriber numbers. Sahibzada Hassan Mansoor Bugvi agreed on the need for simplicity in the user experience to encourage engagement.
+* Competitor analysis and market research for subscription management.
+* Design and user experience considerations for the app interface.
+
+App Feature Development Discussion
+Wale Agbaje discussed the development of a feature in the SKRHYB app that enables business owners to manage employee task assignments through email. He highlighted the need for users to have the option to book specific staff members, such as a preferred barber, and to view the full availability of service providers. The feature will also include a dynamic calendar for service providers to manage their availability effectively.
+
+App Design Feedback and Next Steps
+Wale Agbaje and Sahibzada Hassan Mansoor Bugvi reviewed the SKRHYB app design, with Wale suggesting improvements to the logo and confirming the blue theme. Sahibzada found the discussion helpful and noted that he would refer to the recorded call for clarification on any points. They agreed to communicate via Slack and WhatsApp for any follow-up questions.
+
+
+Action Items:
+
+* Sahibzada Hassan Mansoor Bugvi will conduct research on competitors and explore the branding for the app.
+* Sahibzada Hassan Mansoor Bugvi will provide a Figma link for the app design and encourage Wale Agbaje to leave comments.
+* Sahibzada Hassan Mansoor Bugvi will start working on the onboarding calculator feature for service providers.
+* Wale Agbaje will send the logo for Scribe in .svg format to Sahibzada Hassan Mansoor Bugvi.
+* Sahibzada Hassan Mansoor Bugvi will explore the redesign of the logo based on feedback received during the meeting.
+
+
+Key Questions:
+
+* What branding guidelines or logos are available for Scribe?
+* Are there any competitors in the market for the app being developed?
+* What features should be included in the onboarding process for subscribers and businesses?
+* How will the app handle the verification of businesses and subscribers?
+
+
+Notepad:
+
+* No notes

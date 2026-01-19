@@ -1,0 +1,158 @@
+SKRHYB Project Kick-off Meeting 
+Tue, Jul 29, 2025
+
+0:00 - Sahibzada Hassan Mansoor Bugvi
+Is it Wale? It is Wale.
+
+0:01 - Wale Agbaje
+Yes, Wale. Oh, okay.
+
+0:02 - Areej Shamshad
+So you should have corrected me. I was like literally calling you weird right now and report on all the readings. I'm sorry about that.
+
+0:12 - Sahibzada Hassan Mansoor Bugvi
+Hello. Hello. Hassan, how are you? I'm good, thank you.
+
+0:16 - Wale Agbaje
+I'm good. Are we still expecting anybody from your end? No, no, no.
+
+0:21 - Areej Shamshad
+So actually, Hassan is the design lead here and he will be designing today for the GIGAF meeting as we start working on the UI design for the project finally. And first of all, I would like to congratulate and we're finally starting on this project and we're very excited for this. So yeah, Hassan, you can take a form here and Bill, you can ask any questions you have about the design and any content you want to do as well.
+
+0:51 - Wale Agbaje
+Sorry, Hassan, if you give me 10 seconds Please, I just need to grab my coffee.
+
+0:57 - Areej Shamshad
+So I'll be right back with you, okay? Sorry.
+
+3:00 - Sahibzada Hassan Mansoor Bugvi
+All right, sorry about that. I am back. No problem. No problem at all. I've taken that time to, you know, I was skimming over that document that you shared with me about your product. What's the name of this product, by the way?
+
+3:35 - Wale Agbaje
+What's the name of this project?
+
+3:39 - Sahibzada Hassan Mansoor Bugvi
+Let me put it in the chat. You're not subscribed? Yeah, okay, okay, so it's from that. Why the difference?
+
+3:50 - Wale Agbaje
+Other names were taken and this is catchy.
+
+3:53 - Sahibzada Hassan Mansoor Bugvi
+I've gone through the document so I do have a working understanding of I think what the app is trying to solve and like from a user point of view, I think at least the point where I can manage my subscriptions in one mobile app seems like the pain point that is definitely being solved. Tell me a little bit more about how you want this to be like a browsing market.
+
+4:23 - Wale Agbaje
+Yeah, it's gonna be like a marketplace of sorts, right? They're gonna be two different individual apps, right? One app is gonna be the app for the businesses, right? The small businesses. This is where they are going to be able to create their profile. This is where they're going to be able to create the tiers of their subscription. We're looking to have four basic, very simple subscription tiers, right? Three months, six months, one year, and cancel any time, right? So the idea really is that any time you have a a service, right? You really get it cheaper if you have a subscription on it, right? That you go in there, you go into a service provider or a small business once, right? So that's maybe, that's the kind of the biggest piece for the service providers for the small businesses, right? Other side is on the user side, these are the subscribers, right? So these are the guys that are going to be looking for services. They're going to be looking for businesses, right? And they're going to be looking for cheaper services based on the budget that they have. I'll give you an example. One of the key features, I'm not sure if you've reviewed the low level requirements, right? Is that, and it's very detailed. The reason why I was really, really keen on meeting you is, let me talk about this first, and I'll talk about the design, is that we want to create an ecosystem where users are able to track exactly how much they're spending, right? Also, look for services around them that they use regularly, every day anyway, so it's going to have, some filter options, you know, services around me, basically services that they can subscribe to, right? That's gonna be more cost efficient for them, which they can subscribe to other three, six months, one year basic. And the idea, the app is not an easy app to build, if I'm being honest, right? It's gotta, if you've gone through the requirements, It's a very, very complex application based on the requirements that I've put in there, which is why I was really, really keen on having this meeting, because of the complexity around it and the simplicity that it requires, right? Based on the two parts, right? Because the two parts have to talk to each other. So on the user side, they're not just browsing you know, services, right? We're giving them an experience, you know, an experience whereby if somebody says, you know, I've got a budget of $100 for instance, right? And I'm interested in these three or these four services, right? The system should be able to go and say, hey, you know, based on your budget, right? These are the services around you. That you can subscribe to, right? You know, so, yeah, it's very, very complex. And I'm not sure if it's you that, you know, I'm following you guys on Instagram, right? And I was, I saw a video about specifically about this. I'm not sure if it was you that posted that video, but- It was just yesterday?
+
+8:25 - Sahibzada Hassan Mansoor Bugvi
+Yeah, it was yesterday, yeah. Yeah, it was me in the video.
+
+8:30 - Wale Agbaje
+I was blown away because of how you articulated making sure app is simple, making sure app doesn't have too many clunky parts, making sure that users don't get lost in the experience, right? As simple as possible, but at the same time, helping the users with everything that they want to do, finding new services, requesting everything, a service from a service provider and all the works, right? So, yeah, I'd really, really like for you to review the requirements again and then, because what I'm looking to do, I'm not sure if RH has discussed this with you, is break the project delivery into two distinct phases, right? The first phase is to look at the, is to build or complete the end-to-end design, just so that we know everything that is going to be in the development phase, right? End-to-end completely, you know, from the user journey, from the business journey as well, pretty much everything really. So that's, I can, I can, at a glance, look at it from the top down and say, OK, this is what each part of this application means. This is what we're going to do here. This is exactly how a business is going to create their profile. This is how they're going to upload products to their profile. This is how they're going to publish their profile. This is how they're going to preview before they publish. All of that stuff. So, um, you know, it's, it's very, very important to me because I'll give you an example. Um, so I tried to build this app once, right. Um, and I, you know, when I went to the web summit in Qatar, um, I had a prototype that wasn't great, but I had booked my flight, I had booked my hotels, I had booked everything to go to Qatar. And I couldn't cancel, so I had to go. Okay. Yeah. You know, well, even going there was a good experience for me. Right. Which is where, um, um, uh, your colleague, um, yeah. Yeah. And I'm looking to go to Qatar again next year. Right. I'm looking to have this app ready before then, you know, so the timelines are tight.
+
+11:16 - Sahibzada Hassan Mansoor Bugvi
+So when is, the Web Summit actually? Exactly, it's in February. It's in February and you'll be ready by then? Yeah, pretty much ready by then.
+
+11:27 - Wale Agbaje
+Let me leave it to you because I think I've been talking a bit too much. If you have any questions.
+
+11:36 - Sahibzada Hassan Mansoor Bugvi
+Yeah, my primary question would be, I understand the app, I understand where you're coming from, I understand that you personally feel that it's a pretty complex problem that exists. And you want there to be a simple solution for this, where a lot of these things are centralized, then decentralized, where everyone has to go to like a different service, and then find out the subscription, prices, etc. And then, you know, subscribe to them rather than have like a centralized platform where they can view different service providers, different pricing and be able to actually avail that subscription through one platform, right? My question to you, and this is I want you to answer like on a personal level, is how did you face this problem? And I mean, how long have you been facing this problem?
+
+12:32 - Wale Agbaje
+Yeah, so I've been facing this problem for quite a while, right? So I have a number of services that I, um, use that I don't subscribe to. I feel as though I can get a subscription for it. Um, for instance, I take my car, uh, to a car wash. Right. Um, you know, I've got a gardener, right. I've got somebody that comes to clean my house. Um, and these, there's still something that's called direct debits. Right. Um, but these guys are, you know, they just come once. Ad hoc and then, um, you know, hold them when I need them basically, but I would like it to be a bit more structured. Okay.
+
+13:17 - Sahibzada Hassan Mansoor Bugvi
+If that makes sense.
+
+13:19 - Wale Agbaje
+And I cut my hair, I've got a barber that cut my hair. Um, and sometimes when I go there, I see that he's, he's busy. And sometimes when I go there, I see that he's less busy. Right. Um, So basically what I'm trying to do is create a business model, not just for myself, but for small businesses, right? Where they can bring their customers on board the journey with them to say, Hey, I could give you, I could offer you the service. If you subscribed, uh, to a regular, um, use of my service, it's not just the subscription platform. The idea is that you'll notice that the dashboard's requirements in there. Now, there are businesses that are looking to expand their footprint, you know, looking to buy more equipment, looking to buy a bigger store, looking to buy bigger equipment, right? Now, what we're looking to do is not just have a subscription platform, but a platform where users can subscribe to, use the service, right? And then on the business side, they have a steady income to say, okay, I've got a recurring income that's happening for them, right?
+
+14:41 - Sahibzada Hassan Mansoor Bugvi
+Income that's happening, right?
+
+14:43 - Wale Agbaje
+Not just that recurring income. We're looking to take it a step further to say, okay, here are 10 people that are subscribed to a barber, for instance, right? That barber needs a loan from the bank, right? They could use the data. Within the application to say, Hey, I've got these 10 people subscribe to my service. I've got these recurring, um, income for me or loan me $5,000 so that I can use, uh, to expand my business.
+
+15:18 - Unidentified Speaker
+Yeah.
+
+15:18 - Wale Agbaje
+They could use it as evidence of steady income, evidence of steady business, evidence of study, pretty much everything really. So we're looking to build a recurring business model for these businesses and also step further to say okay you're not just getting a subscription platform you are getting access to financial services right which I think is key. Got it.
+
+15:52 - Sahibzada Hassan Mansoor Bugvi
+I think I understand what the app is about and I think I understand what problem it's trying to solve. I think this might be a bit of a dumb question, but are you like, is this app going to be focusing on specifically services that are near you from like a location perspective?
+
+16:17 - Wale Agbaje
+No. So primarily it should, right? Because, basically wherever you live, you're like a service there. But if I go to, if I have an office, for instance, and I go there five, five days a week, and I want somebody to deliver my lunch, or I want a tutor, or I want an online tutor for instance, right? Whilst it makes sense to make a location specific, right? When looking to, building in such a way that regardless of where you are, you can find, say the tutor, say it's a university student in two cities, for instance, and I'm looking for a tutor that's going to teach me complex maths, right? So I should be able to search by location? Yeah. Yeah. So it's going to be location-based as well. So whilst you can search by users that around you, you need to be able to search by, um, users that are far away from you as well. Right. Um, or businesses or services that are far away from you as well. I'll give you an example. My, um, my, um, tax person is currently, um, six hours away from me driving. Oh, okay.
+
+17:40 - Sahibzada Hassan Mansoor Bugvi
+Right.
+
+17:40 - Wale Agbaje
+And I've spoken to them and I'm like, yo, I'm looking to build this platform. Right. So that I can be, so basically this person, I pay them every year at the end of the year. Right. But I'd rather be paying them monthly. If I pay them monthly, it's cheaper for me. Right. So I did the calculation, they'll save me about $60 every month. Um, right. So. Um, so basically those are the kind of things that I want to do, right. But that we want the app to be able to do basically solve the current problem of, um, uh, expensive services, right. So have your current, um, income also, uh, give them access to financial services. Ultimately, We're looking to partner with banks to say, okay, you've got these businesses, they're doing this much revenue, what assistance can you provide to them? Risking what the businesses, what banks are looking to get away from Additionally, also looking to build a plugin within the app to say, if banks want to check a business, right? So if they want to check a business profile, for instance, they should be able to log in and see what the business profile is, see how many users they onboarded.
+
+19:19 - Sahibzada Hassan Mansoor Bugvi
+Um, you know, sort of like a crunch base, uh, correct. Correct. Makes sense. Got it. I think I have everything. Uh, just my last question would be a value from my understanding. While there are some services inside this which might be suitable for all ages, from a general level, if we were to build out a sort of user persona, it would be people aged 20 and above, and I think professionals. Would that be a correct user persona of the Scribe app? It will be. It will be.
+
+19:56 - Wale Agbaje
+What I want to ask you, Maybe because anybody below 20 really, they may not have the money for subscription. But think about a university, somebody that's in university, 17, 18, that's looking for a tutor or somebody that's, you know, whilst you're right with the age bracket, right? 20 and above. Yeah. I feel as though. Professionals. Yeah. Corporate professionals. Yeah. Um, you know, university as well. Some parts of university students might find this useful as well because of some of the things that they do. Um, and yeah, because of some of the things that they do, um, and you'll notice that they're, um, students, right. That charge other students and say, Hey, you and I'll do your homework or I'll teach you this or I'll teach you that. So they can use the platform as well. And one other thing that I wanted to talk about is the calendaring. The calendaring has to be as dynamic as possible, drag and drop, type scheduling whereby, you know, so this is my idea, right? So say when a service provider, a small business is creating a profile, they'll put in their availability, you know, they should be able to set when they're available, when they're gonna be on break, right? Or whatnot, right? And also they should be able to set the time slots for each service, right? If you look at OpenTable, for instance, they've got time slots for, you know, typically, say you want to get a haircut, for instance, or you want to clean somebody's house, right? If the person wants you to come and clean their house, then they should select the time slots that should be available based on your availability, right? Now, from a calendaring perspective, had initially selected 1 to 2 p.m., right? And they want to change it to 2 to 3 p.m. Or 4 to 5 p.m., right? It should be easy for them when they look at the calendars to just do a drag and drop from, you know, the way you can do it on Outlook or the way you can do it on Google Meets, right? Yeah, exactly. And then it's going to send the service provider a push notification to say, oh, this user has changed their time. From two to four pm for instance right so that's basically what I'm trying to the vision I have for the calendaring simple um intuitive not complex not confusing because you know if we can get the calendar right and if we can get all these other bits right um I think it will be it'll be a success right no no I definitely Have you used, like what food service, food delivery service operates in your area? We do, there's a, what's this called? It's called, Deliveroo. Yeah. Yeah.
+
+23:27 - Sahibzada Hassan Mansoor Bugvi
+So if you might have used Deliveroo, Deliveroo focuses on having like a brilliant experience for their businesses as well, which allows them to very conveniently upgrade their times when they are available, when they're open, when they're closed, et cetera. So I've used Livery Hero as well. So yeah, I think that should be kind of like the model that we should be keeping, right?
+
+23:55 - Wale Agbaje
+OK, yeah, that's fine. Yeah, as long as we can see a mock-up, see what he looks like in real time, end-to-end, the full user journey, yeah, that would be fantastic, yeah. Perfect, perfect.
+
+24:07 - Sahibzada Hassan Mansoor Bugvi
+Just last question, Wale. Have any branding guide, any logo, et cetera, that's made out for Scribe? Yeah, so I have a logo.
+
+24:15 - Wale Agbaje
+It's blue. I could send you, I could email you what it looks like, And I really kind of like it. Again, I'm not looking to stick with that.
+
+24:24 - Sahibzada Hassan Mansoor Bugvi
+And what about the blue that you mentioned? Is that like something that people should follow right down to the T, or is that a work in progress as well?
+
+24:33 - Wale Agbaje
+No, I'm looking to just rethink this from the ground up. Got it. You think this totally, totally from the ground up. Yeah.
+
+24:43 - Unidentified Speaker
+Yeah.
+
+24:43 - Sahibzada Hassan Mansoor Bugvi
+Do we have like a space of any sorts where we can have a conversation? Are you comfortable with Slack or WhatsApp?
+
+24:54 - Wale Agbaje
+Yeah. So I've got WhatsApp. But again, from a project communication perspective, you know, whatever works, if you guys use Slack, And we can definitely use Slack. Yeah. Okay. Aneesh, can you make a Slack space?
+
+25:10 - Sahibzada Hassan Mansoor Bugvi
+Yeah, sure. I'll make it today and send you the advice. Perfect. Perfect.
+
+25:15 - Areej Shamshad
+All right. Thank you. I'll let you know. There's a... Yeah, I'll let you know who to invite from my team as well.
+
+25:23 - Sahibzada Hassan Mansoor Bugvi
+All right? Oh, got it. Got it. Vala, before I end the call, is there any question that you wish I Not at the moment, no.
+
+25:33 - Wale Agbaje
+The only question is because, like I said, the project is a very complex one, right? What I would ask really is to just look at the requirements because this is something that I stressed with outreach as well, is to include the, so there's an Excel document that I sent that has all the requirements in it. Right. So as long as that's been digested and understood properly, then I think we're good to go. I like the vibe. So if there's any time that you want to talk, I've got my WhatsApp number. We don't have to have a meeting at all. Just call me up directly and say, hey, you know, I've got this question about this feature. What was your thought process around this? You know, how do you want us to tackle it? You know, whatever it is, really, please call me so that we can discuss and take it further. Yeah, yeah.
+
+26:51 - Sahibzada Hassan Mansoor Bugvi
+To keep the communication more open, once we have the Slack space helping you for your number as well, so I have that. And if at any point I need a question that I need answered ASAP, I'll just ping you on WhatsApp instead. All right? Sounds good. Thank you so much, Wale, and I'm really excited to bring your complex idea to life.
+
+27:16 - Wale Agbaje
+Yeah, yeah. So just on that, one of the things that I've heard is that you guys, your UI UX team is amazing at this, right? Um, I have heard that quite a number of times. Um, so your design team, your UI UX team is what it's quite amazing.
+
+27:38 - Sahibzada Hassan Mansoor Bugvi
+Oh, you know, so, um, so I'm really looking forward to, um, you're all, you are in very good hands and somewhere then reached left me personal messages that you, uh, uh, you. Met Salma that Qatar Web Summit, so you need to be in good hands. So don't worry at all. I will be putting some of my best designers on this project. And rest assured, you're in very good hands.
+
+28:06 - Wale Agbaje
+Sounds good. Thank you.
+
+28:07 - Sahibzada Hassan Mansoor Bugvi
+All right, perfect.
+
+28:08 - Wale Agbaje
+Have a nice day. Thank you. Thanks a lot, guys. Appreciate it. All the best.
+
+28:12 - Areej Shamshad
+Bye. Bye.

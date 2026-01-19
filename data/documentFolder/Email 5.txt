@@ -1,0 +1,13 @@
+Dear All,
+
+As development continues, there is increasing ambiguity around the intended implementation direction. Continuing without clarity may result in rework later in the cycle.
+
+Several components are currently blocked, as they depend on a clear confirmation of the preferred approach from stakeholders.
+
+At this point, a decision is needed on which option we will commit to so the team can align their efforts. Once confirmed, implementation will resume immediately based on the agreed direction.
+
+Your timely input will help us avoid unnecessary delays.
+
+Sincerely,
+Md Tareq Shah Alam
+[tareqshah.027@gmail.com](mailto:tareqshah.027@gmail.com)

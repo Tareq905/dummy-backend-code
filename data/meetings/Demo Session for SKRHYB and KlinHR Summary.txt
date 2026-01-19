@@ -1,0 +1,73 @@
+Demo Session for SKRHYB and KlinHR
+Fri, Oct 24, 2025
+
+Summary:
+
+The session focused on the demonstration of the Scribe platform and its integration with KlinHR, with key updates provided by team members. Omotayo Mosuro highlighted the importance of feedback during the demo to refine the product ahead of its market launch. Faysal Tejumola reported progress on data set and model development, while Sadiq Agbaje elaborated on the platform's features, which aim to unify various services under a single subscription model for small businesses. This model is designed to facilitate tracking of monthly recurring revenue and improve access to loans from financial institutions.
+
+Sadiq detailed the app's functionality, including a wallet feature for subscription payments, a dashboard for tracking earnings, and an AI component for personalizing service offerings. He addressed questions about the billing process, clarifying that users would be charged for subscriptions regardless of service usage. The platform will also include tools for businesses to manage their services, such as a calculator for potential earnings and a user-friendly login process. The focus remains on providing comprehensive analytics and a streamlined experience for managing subscriptions.
+
+The monetization strategy was discussed, with Sadiq explaining that small businesses would incur a subscription fee after a trial period, while subscribers would not be charged. He emphasized transparency in the fee structure, which would only include costs for platform usage and optional promotions. Additionally, Sadiq introduced features for managing subscriber activities, including a drag-and-drop rescheduling tool and a checklist system for service completion, aimed at enhancing accountability and user satisfaction.
+
+Sadiq also addressed the app's competitive edge, noting that it is not yet live but aims to be the first to market with a service consolidation model. He discussed the integration of AI features for dynamic pricing and service management, as well as plans for tax compliance partnerships. The session concluded with a focus on the user interface and registration process, emphasizing the app's role as a comprehensive platform for everyday services rather than financial services. The need for a reliable vendor rating system was also acknowledged to build user trust in the platform.
+
+
+Chapters & Topics:
+
+Team Introductions and Project Updates
+Omotayo Mosuro welcomed participants and confirmed that Faysal Tejumola was present to discuss technical aspects of the project. Faysal mentioned he had begun working on the models and was clarifying details about the data set. The team was urged to give constructive feedback on the demo to ensure the product's readiness for market.
+
+Overview of Scribe Platform
+Sadiq Agbaje presented Scribe, a mobile app that consolidates everyday services into a single subscription platform. The app is intended to assist small businesses in tracking their monthly recurring revenue, which can facilitate access to loans. Subscribers will benefit from convenience and potential cost savings through bundled services. 
+* Discussion on the design and user interface of the Scribe app.
+
+Subscription Model and App Features Overview
+Omotayo Mosuro asked whether he would need to fund each vendor separately or if a centralized wallet could be used. Sadiq Agbaje clarified that users can top up a wallet within the app, which will automatically handle subscription charges. He emphasized that users will be charged regardless of service usage, similar to a subscription model like Amazon.
+
+Monetization Strategy Discussion
+Sadiq Agbaje addressed questions from Banji Aderibigbe regarding the monetization of the platform. He clarified that subscribers would use the service for free, while small businesses would incur a subscription fee after an initial free period. Sadiq emphasized a transparent fee structure, with charges limited to platform usage and optional promotional services.
+* Monetization strategies for the Scribe app, including subscription fees for businesses.
+
+Subscriber Management and Appointment Flexibility
+Banji Aderibigbe asked about managing subscriber activities, particularly in cases of appointment cancellations. Sadiq Agbaje responded by detailing a drag-and-drop feature for rescheduling and a checklist for confirming service completion. He also mentioned a two-tier feedback system for service ratings that triggers mediation for lower ratings.
+
+Registration and Verification Process
+Sadiq Agbaje discussed the registration process for subscribers, emphasizing that alerts will be sent to both users and businesses upon booking. Omotayo Mosuro inquired about the lack of validation or verification in the registration process. Sadiq clarified that while verification is not mandatory, users can upload their business licenses or certificates, and a verification badge will be introduced for businesses.
+* Features for user verification and trust-building within the app.
+
+Application Features and Competitive Advantage Discussion
+Kay Ajayi raised several questions regarding the application, including its live status and how it would compete with existing booking apps. Sadiq Agbaje confirmed that the app is not live yet but emphasized its unique selling point of consolidating multiple services into one platform. He also mentioned the importance of digital payments and subscription models in the market.
+
+AI Features and Booking System Overview
+Sadiq Agbaje discussed the new AI capabilities that allow users to generate service descriptions and set flexible pricing options, including discounts for multiple bookings. He explained how businesses can manage their booking availability by setting a maximum number of bookings per time slot based on staff capacity. This feature is designed to streamline the booking process for services like yoga, ensuring efficient scheduling.
+
+Payment Integration and Tax Compliance Features
+Sadiq Agbaje presented updates on the app's payment features and user interface, emphasizing the need for intuitive design. Faysal Tejumola raised a concern about tax compliance for businesses seeking loans, prompting Sadiq to confirm that they are considering integrating tax calculation tools into the app. He mentioned potential partnerships with software providers to facilitate this feature.
+* Integration of tax calculation and financial management tools for businesses.
+
+Vendor Rating System Discussion
+Omotayo Mosuro asked whether vendors could withdraw at any time, and Sadiq Agbaje affirmed that they could. Faysal Tejumola proposed the need for a more reliable vendor rating system, akin to Yelp, to assist first-time users in making informed choices. Sadiq Agbaje agreed, noting the importance of ratings for user acquisition and business credibility.
+
+User Interface and Service Overview of Scribe App
+Sadiq Agbaje demonstrated the user side of the Scribe app, explaining the registration flow and dashboard functionalities. Users can subscribe to various services, check availability, and manage appointments. Patrick asked for clarification on the product's nature, emphasizing the need to understand the scope of services offered.
+
+
+Action Items:
+
+* Sadiq Agbaje will add a verification badge for businesses to enhance trust and credibility within the Scribe app.
+* Sadiq Agbaje will explore integrating tax calculation features into the Scribe app by partnering with existing software solutions.
+* Sadiq Agbaje will consider incorporating a rating system based on existing platforms like Google ratings to enhance user trust in vendors.
+* Sadiq Agbaje will finalize the design of the Scribe app and incorporate feedback from the team before starting development.
+
+
+Key Questions:
+
+* How do businesses track their monthly recurring revenue using the Scribe app?
+* Can users subscribe to multiple services through the Scribe app?
+* What features will be included in the Scribe app to ensure user verification?
+* How will the Scribe app handle offline payments for services?
+
+
+Notepad:
+
+* No notes

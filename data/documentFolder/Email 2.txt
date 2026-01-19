@@ -1,0 +1,13 @@
+Hello Everyone,
+
+During the latest review, it became clear that the integration work is progressing unevenly across environments. This increases the chance of unexpected behaviour closer to release.
+
+Most of the outstanding items rely on updates that are still pending from our external vendor. Until those are received, our testing coverage will remain partial.
+
+We need to agree on whether to wait for the vendor’s confirmed timeline or move ahead with an internal workaround to protect the release window. Once a direction is confirmed, the team can immediately execute and adjust testing plans.
+
+Looking forward to your guidance.
+
+Regards,
+Md Tareq Shah Alam
+[tareqshah.027@gmail.com](mailto:tareqshah.027@gmail.com)

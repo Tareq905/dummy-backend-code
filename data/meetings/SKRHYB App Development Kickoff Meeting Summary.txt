@@ -1,0 +1,40 @@
+SKRHYB App Development Kickoff Meeting
+Mon, Oct 13, 2025
+
+Summary:
+
+The discussion focused on the development of the Scribe app as a subscription platform tailored for business owners. Arham Anwaar and Wale Agbaje reviewed the app's design and functionality, emphasizing features such as user registration, product management, and subscriber interaction tracking through a centralized dashboard. They highlighted the importance of integrating analytics and allowing users to import Google reviews for credibility. Arham raised the possibility of including one-time payment options alongside recurring subscriptions.
+
+Wale encouraged Arham to suggest technology requirements, outlining next steps that involve presenting the design and technology stack to stakeholders before development starts. They also discussed adding a feature for marking services as completed and the necessity of a reporting dashboard for performance tracking. Arham committed to sharing design notes with his team and proposed setting up weekly calls for project updates once development is underway.
+
+
+Chapters & Topics:
+
+Scribe App Development Overview
+Arham Anwaar and Wale Agbaje reviewed the Scribe app's designs and discussed its vision as a subscription platform aimed at helping businesses scale. Wale explained that the app will allow businesses to manage products, subscribers, and track performance through a unified dashboard. They also touched on user functionalities, such as service bookings and review imports from Google.
+* Discussion on the design elements and user flow
+
+SKRHYB App Development Discussion
+Arham Anwaar clarified the technology requirements for the SKRHYB app, seeking Wale Agbaje's input on whether to follow specific guidelines or use their best judgment. Wale agreed to let Arham choose the technology stack and emphasized the importance of presenting the design to stakeholders before development begins. They also discussed the need for a reporting dashboard for businesses to track revenue and subscribers.
+* Technology stack recommendations and stakeholder presentation
+* Next steps for development and communication plans
+
+
+Action Items:
+
+* Wale Agbaje will present the design and proposed technology stack to stakeholders after receiving the technology stack from Arham Anwaar.
+* Arham Anwaar will conduct research on the latest recommended technologies for the application and prepare a technology stack proposal.
+* Wale Agbaje will give it some time to assess the next steps regarding the project development and design completion.
+* Arham Anwaar will convey the notes discussed during the meeting to Hassan and Areej.
+* Arham Anwaar will set up a weekly recurring call with Wale Agbaje or another appointed team member once development begins.
+
+
+Key Questions:
+
+* What are the specific technology requirements or specifications for the application?
+* What is the timeline for the development phase of the application?
+
+
+Notepad:
+
+* No notes

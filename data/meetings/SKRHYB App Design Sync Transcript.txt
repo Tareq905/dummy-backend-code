@@ -1,0 +1,416 @@
+SKRHYB App Design Sync
+Tue, Aug 12, 2025
+
+0:03 - Wale Agbaje
+How have you been? Good, thank you. Good, good, good. Yeah, hello.
+
+0:27 - Sahibzada Hassan Mansoor Bugvi
+Good morning, Valit.
+
+0:28 - Wale Agbaje
+What time is it there for you?
+
+0:31 - Sahibzada Hassan Mansoor Bugvi
+It's 7.31 now. 7.31 AM? Yeah. Oh, nice. It's 11.30 for us. I texted Areej that you might delay the call, if possible, by 30 minutes, because we're having a proper downpour here. But I was still able to reach the office, so it's OK now. Oh, yeah, Valit, by the way, I texted you. Whether we have a logo in place for Scribe, any logo, any branding guide that you need us to follow?
+
+1:08 - Wale Agbaje
+Yeah, I think I sent that already. No, no, no. I haven't sent it, but we do have a logo. OK. Yeah, we do have a logo. Yeah, but I could finally un-email it to you. Yeah, OK.
+
+1:28 - Sahibzada Hassan Mansoor Bugvi
+I started work on building out a few of the stores. And yeah, let me just share my screen. And actually, before we jump into that, I was trying to find some competitors. But I was only able to find this one app called Fubill that lets you manage subscriptions and expenses. But there was no app that I could find that lets you browse subscriptions and avail them through the app. Is there any competitor that you're aware of that does remotely something that we're doing?
+
+2:07 - Wale Agbaje
+No, not that I know of, no. Which is why I said this is quite unique. Which I said, this is why I said this is quite unique. Because nobody, which I think also is the reason to go to the market early, right? Nobody that I know of is doing this right now. When it comes specific to, when it comes specific to subscriptions, right? So. Okay. All right.
+
+2:39 - Sahibzada Hassan Mansoor Bugvi
+Since we don't have a competitor in place, we'll have to do this manually, but yeah, okay. We'll be going to conducting the research Let me just share my screen and take you over something. Can you see my screen?
+
+3:04 - Wale Agbaje
+Yes, it's just coming up now. Can you see it now?
+
+3:12 - Sahibzada Hassan Mansoor Bugvi
+Yeah, I can see it now.
+
+3:21 - Sahibzada Hassan Mansoor Bugvi
+So the first thing was obviously setting up proper branding as well, because you hadn't sent anything yet. So we were just playing around on our own. We've come up with a very nice typeface for the app. And we were going with the color purple. But let me know if something else is being used in the logo, and we can change it accordingly. And yeah, please send the logo in .svg format if you have it. OK. And yeah, we're thinking of something like this in which the onboarding, we have the user confirm if they're a buyer or a business. And then we streamline the onboarding through a mobile phone because we need the users to be active users. So mobile is the most secure way to confirm identity. Then we also have them give us our email address if they are continuing with email. And then verify that, and then we can jump into the actual app screen for the user. This was just an exploration. This is nothing final yet, but just exploring how we could put categories here and put trending things here at the top, something of that sort.
+
+4:36 - Wale Agbaje
+Yeah, just one note, on the second screen, we agreed that we'll have two separate apps, one for business and one for subscribers, and we're not calling them buyers, we're calling them subscribers. Subscribers, okay.
+
+4:53 - Sahibzada Hassan Mansoor Bugvi
+Oh, so, oh, sorry, I might not have a very good choice.
+
+4:58 - Wale Agbaje
+They're not really buying anything physical, right? Yeah, they're subscribing to a service. I was set up for the business, I was on a red appointment.
+
+5:11 - Sahibzada Hassan Mansoor Bugvi
+Yeah. Okay, no problem. That's what we've had that in place. Then in that case, we won't have the screen actually. If this is like the subscriber app, it'll just go with this or something of that sort. But yeah, for the subscribers onboarding, we were thinking of something like this and we will just have them verify their first name, their last name, and then we have them give us the location so we can find some suppliers near them as well. So it finds businesses near them, something of that sort. And then they can add their address, confirm it as well, because the app is a little bit dependent on addresses as well, from my understanding, right? It is. It is, yeah. OK, good. That's why we have like a brilliancy process just to have them confirm their address. And for the businesses onboarding, we were thinking of something like this. Obviously, all of this that you're seeing It's just added here and you can comment in and then we will update it properly. But for the businesses onboarding, we were thinking to go with something that's a bit of like a KYC onboarding in which we properly verify. So we have them first enter their business name, confirm whatever it is that they're selling, whatever the services that they're selling, and then confirm the business address. Then also upload a government issued document as well to verify that they're an actual business. It could be registration certificate, GST, or VAT license, something of that sort. And then we finally give them an option to review their details. And then it is showing that it's live right now, but the way that we were thinking was that it would first go to you and your team, and you guys will verify it before a business is listed on the platform, right?
+
+7:03 - Wale Agbaje
+Yeah, so just if you just go back a little bit. So what we were looking to do, and I included it in the requirements document, is as much as possible for businesses that are registered on Google already, we're looking to import their information from Google. So basically, all they have to do is put their business name in there. And then, of course, the API is going to look up the business. And then it's gonna export, you know, basic things like, you know, the telephone number, business description, address, you know, all those basic things, websites, all those basic things that are available already, because there's an API that does this, right? So rather than them, of course, I think it's good to take them through this, but there should be a feature where it's gonna say what's important, for Google, something like that.
+
+8:02 - Sahibzada Hassan Mansoor Bugvi
+So what we can do for that is that we can have an additional screen, even before this, that asks them to whether they have like a Google information panel. And if they do, they can link it to the Google account. And once that's done, obviously, all of this will be filled out. And then we'll just take them to this last screen. And then we can verify and review and then edit if needed for anything, right?
+
+8:27 - Wale Agbaje
+That is correct. Yes. And also, If you go back a little bit, please, then in terms of what do you sell, it's, you know, it's what, what service do you provide? Yeah.
+
+8:38 - Sahibzada Hassan Mansoor Bugvi
+Obviously all of this is loaded right now.
+
+8:42 - Wale Agbaje
+Yeah.
+
+8:42 - Sahibzada Hassan Mansoor Bugvi
+I provide you with a Figma link as well. And I would highly encourage you to leave comments as well, because obviously we'll update this with some relevant services as well. Something like haircuts, salons, something that sort, but yeah. And after this, I was thinking for the dashboard to look and feed something like this. So first, we have them as the first service. They have a dashboard of sorts where they can set up their store, set up the description, what the business type is. Not a manufacturer, but maybe they're like, I know, maybe they're like a solo provider. So I don't know what the actual terminology is, but maybe they're working solo. Maybe they have a team, something of that sort. They can tell us that as well. They can set up their payment info and all of those details as well. And they can add relevant media, et cetera, to spice up their services as well. So they can customize their profiles, their stores, set a proper payment info and verify their business information as well. So, uh, and I was thinking to, uh, in the actual, uh, subscriber facing app, we could like tick marks to show that to show that like something is verified. So that would incentivize businesses to actually go through our verification process as well.
+
+10:15 - Wale Agbaje
+Absolutely. Absolutely agree. Yeah. And one thing that I would. Comment on this. So this is, this is fantastic by the way. Um, so far, um, one thing I was thinking is in terms of the store description, right? And all this other information I was thinking if it's possible, because the last thing people want to do, which is why we're looking to import users details from Google, the last thing people want to do is complete another form. Okay. But if we can get some, you know, this AI integration that helps them. Okay. Yeah. Okay. That helps them complete this. Right. Um, which is fantastic. Then one of the things that I think you've missed is in the beginning before users, before providers, um, service providers sign up at all. Right. We're looking to create a simulation for them in terms of showing them how much they can earn using the app. And it goes, it could go something like calculate your earning potential or something, right? So basically it's gonna have two, three sections. How much is it? How much do you charge by service then? And how many subscribers, right? So if they put, so if they put, uh, how much they charge by service, then automatically will populate how much they can earn. If they have 10 subscribers, 20 subscribers, 50 subscribers, or a hundred subscribers that way, they've not even logged into the app, right? Or they could see. Right. From the get go to say, okay, I've got this, um, there's this app logged in, right.
+
+12:18 - Sahibzada Hassan Mansoor Bugvi
+I can see if I charge $20 for a service.
+
+12:22 - Wale Agbaje
+Right. And I have 20 people. It's going to, they're going to show them by week and by month to say, okay, if you have 20 subscribers, $20 and you charge, if you have, if you charge $20 and you have 10 subscribers, right. How much you can.
+
+12:41 - Sahibzada Hassan Mansoor Bugvi
+week, this is how much you can make per month, and this is how much you can make per year. That way, they'll be like, oh, what? Yeah.
+
+12:50 - Wale Agbaje
+And you do a lot more interactive and engaging as well. Exactly. So, and it has to be interactive and engaging as well. Um, just so that it's fun. And then maybe we'll have a toggle bar to say, you know, if they, they could move it from, you know, five to 10, something like that. Right. Yeah. It. So that way, even before they sign up, they see the potential already. Yeah. No, I completely understand.
+
+13:14 - Sahibzada Hassan Mansoor Bugvi
+And I'm relating it to, so in like fitness apps, uh, in their onboarding, the first thing that they ask you is like, what's your current weight, what's your goal. And then it shows you that if you are, if you use this app, you will be this much weight in like this many weeks of that. And that like, helps you get into the app and then you get pumped up to use the app. Right. I think that's like a very nice model to follow. So what I'm thinking is that at the start of the onboarding, we have this calculator in place, uh, in which we ask them like how many users do they currently have? What's the average pricing. And then we like show them in like a very nice aesthetic sort of way with some animations that this is how much you can earn if you use gripe. Yeah. So yeah, no, that's a very cool idea.
+
+14:10 - Unidentified Speaker
+Okay.
+
+14:10 - Sahibzada Hassan Mansoor Bugvi
+And I'll have to start working on that. I'm thinking actually, while it would be better, because we are still in the exploration phase to like, rather than going over the designs, I was trying to make sense of all of these documents, but it would be better if you can maybe go like, make me sorry, help me walk OK, so which section specifically?
+
+14:37 - Wale Agbaje
+Do you want to share your scheme?
+
+14:40 - Sahibzada Hassan Mansoor Bugvi
+So I have these three documents on board here. One's the proposal that Artic sent, and these are the estimates. I don't think that's too important, because this is pretty straightforward. And then there's this Excel sheet file as well, which had like 54 pages to it. Maybe let's start with this. Okay.
+
+15:04 - Wale Agbaje
+Do you want to share your screen or do you want me to walk? Let me see. I don't have it up right now. One second. Do you want me to review the Excel document specifically?
+
+15:27 - Sahibzada Hassan Mansoor Bugvi
+Yeah, because the other ones were, I think, a bit self-explanatory. Okay.
+
+15:34 - Wale Agbaje
+Let me pull up the Excel. Why do you think the Tocodex proposal summarizes everything?
+
+15:42 - Sahibzada Hassan Mansoor Bugvi
+If you think it does, then we can go over that.
+
+15:47 - Wale Agbaje
+No, the Tocodex proposal is very high level, which is why I specifically requested that we have a Sorry, second. Let load up my screen. Yeah, sure. Yeah, so this...
+
+16:22 - Sahibzada Hassan Mansoor Bugvi
+Okay.
+
+16:25 - Wale Agbaje
+All right, let me share my screen. Let me know when you're able to see it. OK. Yeah, so some of these are... Can you see my screen? I can't right now. No, it should be able to see it now. I can see it now. OK, good. All right, good. All right, so this is the business profiles, right? So we wanted to include business profiles with information such as business name, logo, address, contact details, then service they provide, right? And then we need to allow the business to create a detailed list of their products, right? Or services, right? I think we've got that already. Then they need to upload their image. And then also within their business profile, as well, you know, they specify the hours, specify the operating hours that they open per week. You know, they should have some sort of map integration that shows, and I can send you a screenshot of what this looks like, right? Then with business profile as well, at the bottom of the page, the business should be able to see the customer ratings, and the users should be able to leave reviews, display overall ratings, This is to highlight special offers, discounts or promotions. So the feature from a backend, you know, they should, if they have a service, it should be able to tell them, Oh, do you want to offer a discount for one service? Right. Then provide a dedicated section for showcasing limited time deals. You know, so it's all, you know, so it could be a banner or it could be a section.
+
+18:21 - Sahibzada Hassan Mansoor Bugvi
+Yeah.
+
+18:21 - Wale Agbaje
+Then, um, uh, payment methods, uh, credit cards. I think I've seen that already. Uh, booking, reservation integration. This is, this is one of the biggest pieces, right? Uh, because for each business, right. When somebody's grabbing to the service, they need to subscribe to a specific time. Right. Which is the most important thing. Right. Going to come from the business or the service providers availability. So the service provider is going to provide the availability, right? And then the business, the subscribers, they're going to select slots. So if, if a haircut, um, takes 30 minutes to cut and nails take 15 minutes to cut, right? As part of the, when users, when the businesses are setting up the service, we can ask them how much, how long does your Uh, typically take, and with that, you know, if they say, uh, 15 minutes, if they say 30 minutes, then each slot is going to be 30 minutes. Do you get what I'm trying to say? Right.
+
+19:28 - Unidentified Speaker
+Yeah.
+
+19:28 - Sahibzada Hassan Mansoor Bugvi
+So similar to how, you know, you can book from like a Calendly or cal.com link. Correct.
+
+19:35 - Unidentified Speaker
+Yeah.
+
+19:35 - Wale Agbaje
+And also something that I mentioned when we spoke previously is that if a user is subscribed to 2 p.m. Right and they want to move it to 3 p.m. What the app should ideally do is what the app should ideally do is easily let them drag and drop subject to the subject to the service providers availability right let them drag and drop from the current time to another time and then they're gonna push notification to say how you've changed your time to social time and then the service provider as well is going to get a push notification to say this service this subscriber has changed their service to this time.
+
+20:24 - Sahibzada Hassan Mansoor Bugvi
+So basically how we do it for like calendar apps like Google Calendar etc you can just drag and drop.
+
+20:32 - Wale Agbaje
+Exactly but again it has to be subject to the users availability right allow users to share directly through the app, allow businesses to put listings. I think we've got that. Of course, support channels as well. Display contact information. Yeah. And then integrate live chats. So each profile should have a live chat as well. You know, let me just turn screen through this. Yeah. So basically, and also if there's a, I think this might be far-fetched. I'm not sure if we're ready for loyalty program yet. If it's something that you can build in, I'm happy for that, for you to do that.
+
+21:18 - Sahibzada Hassan Mansoor Bugvi
+And then analytics and business insights. This is the dashboard. Sorry, loyalty program for the scribe app or for businesses?
+
+21:26 - Wale Agbaje
+For businesses to offer to other users. Yeah, correct. And then analytics and insights of business, right? So this is the business dashboard, right? And this is a dashboard that we've been discussing for so long, and it's key, super key to the business. And what we're trying to do with this is to make sure that businesses have a dashboard, right, that shows the number of subscribers, the number of, you know, how much they're earning, you know, all of those key details. That way, if in three months' time they want apply for a loan at the bank, export it in PDF, and then send it to the bank and say, hey, you know, we've got 50 subscribers. We're making, um, you know, that's coming in and we have this capital that we have.
+
+22:20 - Sahibzada Hassan Mansoor Bugvi
+Exactly. Exactly.
+
+22:21 - Wale Agbaje
+That way banks can look at it and say, okay, Oh, wow. This business is doing really well.
+
+22:27 - Sahibzada Hassan Mansoor Bugvi
+Let's get a loan. Right.
+
+22:28 - Wale Agbaje
+Um, Um, you know, um, yeah, so there should be a section terms and conditions and services and refund policies, um, adhere to regulatory and whatnot. Right. So that's basically what the business profile should look like, Right. And it should also include, um, a section that I think I added in here somewhere, you know, when you complete a service, right. Each month.
+
+22:52 - Unidentified Speaker
+Right.
+
+22:52 - Sahibzada Hassan Mansoor Bugvi
+Yeah. Then you should have a service completed.
+
+22:55 - Wale Agbaje
+Then you would send a push notification to the subscriber and say, okay, we've completed the service. Maybe after you get a haircut, right? You send them a push notification and say, okay, we've completed your service for this month. And then the subscriber is going to then accept it to say, okay, I've just had a haircut. That way there's no dispute between them.
+
+23:17 - Sahibzada Hassan Mansoor Bugvi
+But like on the same, same line, if I am, um a business owner and a subscriber of mine has booked a 2 p.m on the 14th of august right like I blocked that time out for that subscriber but if that subscriber did not show up I should still be billed for that right uh yes of course you still be getting paid for that but if you are like putting the amount in escrow of sorts but the user with the subscriber having to confirm that they have a failed that service wouldn't um Yeah, so that's something I have to think about right because you're subscribing to a slot Yeah, right and if you show up or you
+
+23:59 - Wale Agbaje
+don't show up right the service provider still gets paid because somebody else could have booked that slot That's the business of subscription, right? I'll give you an example If you have Amazon subscription and you don't watch it for the whole month Amazon are not gonna refund you, right?
+
+24:18 - Sahibzada Hassan Mansoor Bugvi
+Yeah, I completely understand and I'm just asking because obviously these things need to be a little bit clear as well, right? For the businesses, right?
+
+24:29 - Wale Agbaje
+Yeah, I totally agree. Maybe it's something that we need to think about just so that there's no dispute. Users may want to change that time or they may be sick or something that I'm going to have to think about. Okay. All right. And that's, that's on the business profile within the app. Right. And then there's a CMS section, which is going to likely be web-based. Right. Um, okay.
+
+25:00 - Sahibzada Hassan Mansoor Bugvi
+Yeah.
+
+25:00 - Wale Agbaje
+Um, let me just start from here. Um, this is the admin dashboard, so they're going to have a web-based, uh, app, um, where the admin host, basically, the business owners are going to be able to log in. It's going to be web-based. To provide scribe admins and super users visibility and control. So this is where we control everything, really. We control the users, we control the subscribers, we control everything, right? Of course, it's going to have secure login, provide monthly recurring revenue, active vendors, active subscribers, daily transactions, support tickets raised, churn rates, topics all of that stuff right but sorry while I'm cutting you here but do we need like a custom design UI for the dashboard as well no we're not asking for custom design for this right it's something that you can understand and I'm just confirming that sometimes we don't need to actually go the dashboard then yeah no we don't need to build it from the ground up right as long as the these features, right? And it's clean and user friendly, right? So this is fine in that case. Let me see what is here. Yeah, this is also the admin dashboard, right? And then this is the admin dashboard. And then you've got the admin dashboard requirements. Yeah, so we don't, need to build it from the ground up, right? I know that the admin dashboards that are available out there, you know, that requires a little bit of tweaking just so that it aligns with these requirements. So yeah, okay. So in that case, we don't need to go through this. Then let me see these use cases here. Okay, feature user registration. Yeah, no, this is just around user registration, right? And then the business view dashboard, right? I think we've covered the business dashboard already. This is the business registration, you know, and then this is the business dashboard. You know, a business owner wants to view their business dashboard to monitor key metrics, manage services, make informed decisions, right? Yeah, so I think we've covered that cost consumer interface. So we're covering consumer interface here as well. Whereby it's because he wants to use the app to discover and subscribe to various services, right? Um, you know, they download the app, they log in and then the main flow, these are the main flows. The system presents the consumer with the home screen displaying popular services. I think you've showed me some of that already. So I know some of these are replaced already, but we just have to make sure that we go line by line to make sure that all of these details are. Mm. And then the future payments and billings as well. And this is a subscription of the app as well, payments and billing. And then subscription renewals as well. So we've covered that as well. So any subscriber, they should be able to renew their service or cancel their service. So this is what this section is all about. Okay and then uh feature analytics and reporting yeah well this is um where is it again sorry let me just scroll up businesses to view their stats etc correct correct um and then here is a feature the user support help center right you know so this is the faqs of the app and you know the system what the the system helps them do. And then the security of the app as well, authentication, and then social media integration. This is more about businesses being able to integrate, well, not integrate, but input their social media in somewhere, somewhere on that app so that somebody can click and then it takes them to the business page on Instagram or something like, yeah. And then, um, Continuous improvements, this is just a feedback section, right? Business payments processing. Sorry, could you repeat that continuous improvement section?
+
+29:37 - Sahibzada Hassan Mansoor Bugvi
+Yeah, this continuous improvements section, right?
+
+29:39 - Wale Agbaje
+The app aims to, for continuous improvement, but actively seeking and implementing user feedback. So basically, we don't need a dashboard. We just need a line item in there to say, you know, you know, give us feedback or how can we improve something like that, right? You know, so once the users type it in, they just submit and the admin gets a notification in the admin center and that's it. Got it.
+
+30:10 - Unidentified Speaker
+Yeah.
+
+30:11 - Sahibzada Hassan Mansoor Bugvi
+Yeah. So yeah, I get what you mean.
+
+30:15 - Wale Agbaje
+So basically users can like request features and something. Yeah. Exactly. And then, um, business payments processing, the app process payments from users who are subscribed to business services, ensuring the timely and accurate transaction. Sorry. A little bit. This is just the payments subscription flow, right? Showing that the business owners can receive payments after a subscriber has subscribed to a service. Okay. And then I think finally, some use case, users want to subscribe to a service offered by a business within the app, enabling them to access and enjoy provided services, right? So the actors here are the users, and the secondary actor is the system and the business owner, right? It just shows that a user has to download the app. Users can navigate to the service discovery page within app, feature, create a list of businesses, browse by location, and things like that, right? They could choose a subscription option, you know, monthly, yearly, right? And then, you know, the subscription option, I think it's important that we make it in such a way that, well, the businesses have to decide this, right? But it could be a four-type subscription, It's gonna be one time subscription. Mm-hmm quarterly every six months on a year, right? Of course if you subscribe for the year, it gets cheaper If you subscribe for three months, then it gets a little bit more expensive, right? Yeah, and then we option for monthly quarterly and annual subscriptions. Yeah, correct Okay, and then there's just one other one that if you want to just build subscribe to a one-time service Oh, right. You can, you can also do that. And then the referral program as well. So as a user, um, users have the opportunity to refer friends to the app, uh, services through a referral program, any rewards for referrals. This is just, I think if you take one of the best referral programs out there, right. So basically if I use a barber, uh, on the app, so I want to the two levels of Referrals, right? You can refer a specific business or you can refer the app to say, Hey, you know, you can find great services on this app. Right. Um, and then business invitation, uh, and user subscription. Now this is, um, a new one, right? You know, when you have a business, right. That has a service that has created a service on the app. Right. So I did my hair salon. Right. And I want 20 people to, uh, and I have a hundred people on my, uh, WhatsApp, right. You need to be able to forward, um, uh, your service. You know, you've got that. We can put a share icon to say, Oh, share with your contacts within your app, right. Or share with people on Instagram or Facebook that way when they share it, it prompts them to either download the app, right. Or, you know, go to the app store or download the app or go to the service if they've got the app already.
+
+33:48 - Sahibzada Hassan Mansoor Bugvi
+Right.
+
+33:49 - Unidentified Speaker
+Yeah.
+
+33:49 - Wale Agbaje
+Yeah.
+
+33:50 - Sahibzada Hassan Mansoor Bugvi
+And then it's like improve user retention and like bring more users to the app. Exactly.
+
+33:57 - Unidentified Speaker
+Exactly.
+
+33:58 - Wale Agbaje
+And then this is a very, very niche one. Right now, if somebody, um, if I'm a, I'm a subscriber, And I have, um, and I've downloaded the app. Right. And I don't, and I've downloaded the app and I want somebody that does my gardening for me, or that does my house cleaning or cleans my car and how their number, right. Should be able to, from my user profile, invites them to the app to say, Hey, there's this app that you can, so that you can register as a business. Or subscriber which means you can earn money from multiple subscriptions.
+
+34:42 - Sahibzada Hassan Mansoor Bugvi
+So you want it to be multifaceted in the way that users can from let's assume that I'm on the subscriber app right and from the subscriber app I can also invite users to become subscribers and at the same time I can also invite businesses that I trust as well okay you can like you know join the scribe app as a business as well. Correct yeah. Okay Yeah. I think that's it.
+
+35:09 - Wale Agbaje
+So building this, writing these requirements, I made sure that it's very, very comprehensive. Right. Which is why when I was speaking to your team, I said, you know what, it's important that and I'm happy that we're having this conversation. Right. Yeah. And then scribe design. These are some of the features, service providers or vendors. And then we've got a section here that application feature updates. User subscribers, I'm yet to update this, but I will do it. And then for the users, these are some of the things that we're thinking about. Smart budget match. What this basically does is if you have a budget of $100 and you're looking for five services, right? What the app does, right? Is you put in your budget, right? And then you select the type of services that you want. Haircuts, barber. What the app does is it throws through the app and then exports or gives you a list of services to sell. These five services, right? Will cost you $95 or these five services will cost you a hundred dollars based on what they've selected. Right. Yeah. Do you get what I'm trying to say? Sorry, this is, this sounds a bit complex.
+
+36:37 - Sahibzada Hassan Mansoor Bugvi
+Can you repeat that? Yeah.
+
+36:38 - Wale Agbaje
+So it is a bit complex, right? So the feature is basically, it's called a smart budget match. And what smart budget match does is you have a budget. Yeah. I'm a subscriber, right? I'm looking for services, right? I know services, right?
+
+36:55 - Sahibzada Hassan Mansoor Bugvi
+I want them.
+
+36:56 - Wale Agbaje
+I don't want spend more than a hundred dollars, which is my budget, right? So what you do is what a subscriber does is they'll put in their budget, how much they want to, um, spend, and then they'll select the type of services, uh, barber house cleaner, um, dry cleaner, you know, they can select maybe two, three or four, five services, right? What app then does is it looks at the service and then goes through the app. And then matches them with services that will cost them less than $100 or up to $100. So then this should be done in the onboarding right?
+
+37:37 - Sahibzada Hassan Mansoor Bugvi
+No, you don't have to do it in the onboarding.
+
+37:41 - Wale Agbaje
+It should be a feature within the subscriber section.
+
+37:44 - Sahibzada Hassan Mansoor Bugvi
+So would it be like a filter of sorts that I can put in?
+
+37:50 - Wale Agbaje
+It could be a filter. I don't think I think it's more of a search, right? It's a search filter, right? Yeah, yeah, it's going to be a search filter, right? So I think this is how I think it's going to work, right? We have a section called Smart Budget Match, right? Once the user clicks that, right, it then prompts them to enter their budget limits, right? After they enter the budget limits, and then it takes them to, on the same screen, it takes them to a section where It could select the service that they want right within that budget limit, right? You know, so maybe they select three four whatever and then the AI or the search is gonna go away and then present them with haircuts Baba, whatever it is and then give it to them It's just gonna present it on the screen.
+
+38:45 - Sahibzada Hassan Mansoor Bugvi
+Hmm So I'm saying I think I have a of how that could work out in the best way.
+
+38:53 - Unidentified Speaker
+Yeah.
+
+38:53 - Wale Agbaje
+Okay, good. Right. And this is I've got the description here as well, in terms of, you know, smart budget watch and the description, the subscription, wallets, digital wallets within the app, rewards and referrals as well, personalized service recommendations, you know, so basically the app should be able to personalize or recommend certain services via push notification to say, oh, there's this service around you, or there's this service that somebody else has subscribed to, something like that. Yeah. So I'm not sure we need to go through all of these in detail.
+
+39:39 - Sahibzada Hassan Mansoor Bugvi
+Could you like lightly brush over these, because all of these sound a little bit vague to me. OK. Good. So personalized service recommendation.
+
+39:49 - Wale Agbaje
+So for this, so what this does is create a list of services based on preferences, history, and ratings, right? One tap subscription renewal. So basically if somebody wants to renew a service, right? It just, you know, tap to renew, right? That makes sense. It doesn't mean, it doesn't need one tap or auto renew on and off. Rating system, right? Rates and review services to build trust, right? You know, the way Amazon does it, right? You know, after you've completed a service, you know, you get a prompt to review that business. Then we need to build a flexible subscription plan, you know, so weekly, bi-weekly, monthly. And the reason why this is important is because there are some times that users want to use a service twice a week, maybe and Thursday, or maybe every two weeks, right? So with that, we need to have a calendar that gives them that dynamic option to say they'll select the week. And then they'll select Monday, 4pm, Thursday, 8pm, or something, right? That way, it's easy for them. Right? Hmm. Yeah. Okay. And then when the user wants to pull a subscription, say they're traveling for six months, they should be able to do that. Smart notifications, timely alerts for oncoming bookings, expiration subscriptions and stuff, right? So it's just push notifications to alert users. Invite your provider too. I think we've discussed this already. Lawyer tool program, I think we've discussed this already. Endpoints for every subscription to unlock rewards. This is mostly good to be based on the business, if the business provides this. Save favorites, so if there's a business that you really like, you could maybe double tap to save it. Multi-user access, so let family members or housemates share subscriptions from one profile. So what this basically means is that if I'm subscribed to a haircut and I can't make it, or my friend or my brother wants to, you know, replace me for that service, then they can, right? I'll give you an example. Say, if I want to get my nails done and I can't, and say I'm a girl and I want to get my nails done and I can't, but my friend is around, you know, you know, they could use my service, right? So that it doesn't go to waste, basically.
+
+42:27 - Sahibzada Hassan Mansoor Bugvi
+That sounds a bit complex to factor in, to be honest. Would the business owners be comfortable? Yeah. I mean, it's a service.
+
+42:33 - Wale Agbaje
+It's a basic, I mean, If I'm getting my nails done and I can't make it and my sister shows up in my place, right, with, of course, they would have agreed it with the service provider via chat, you know, there's going to be in that chat as well. And if it's too complex, you know, maybe, you know, we can remove it, but I just, I'm finding a way to make it as flexible as possible to users so that they don't use it. They don't lose their service basically. I think it would.
+
+43:04 - Sahibzada Hassan Mansoor Bugvi
+like make sense on a non like systematic format that for example, I'm a user and I can just reach out to my business or whatever I'm availing that service from and I just confirm from them, for example, okay, hey, I won't be able to make it comes over instead. And rather than having like an actual option in which we have the user, you know, do something to configure Yeah. No, I totally agree.
+
+43:33 - Wale Agbaje
+Yeah. So let's discount this. Yeah. Okay. Yeah. Subscription comparison, um, you know, compare prices, ratings and stuff. So I think this, right, I don't think we need to build this out. Right. Because basically what this does is the app should have a filter, right. To say, you know, filter by price filter by ratings that way, you know, you could compare, right. Yeah. You don't have to actively create something, if that makes sense. So as long as we can filter, you know, if there's 10 barbers and it shows, and one has five ratings and one has three ratings, you know, that's the comparison, as long as it's on the app and the user can see it, that's fine. Live chats, service tracker, I think we've discussed this already. A timeline style tracker showing completed and ongoing, services, right? Receipts. Okay. And then this, this just receives storage geotagging.
+
+44:34 - Unidentified Speaker
+Okay.
+
+44:34 - Wale Agbaje
+Autocategorize for text or visiting purposes as well.
+
+44:38 - Sahibzada Hassan Mansoor Bugvi
+So users will have the option to like mark a receipt as text deductible, something of that sort as well. Do users have what, sir? So users will have the option to like mark a receipt as a text or reductible as well through the app. Yeah, exactly.
+
+45:00 - Wale Agbaje
+Something like that. Yeah. And then geo-targeted services. So this basically shows top rated services within areas, users areas or region. So this is one of the other complex ones. So if there's a user that lives in a specific location and there's a service that is really, really top rated, Right. You know, it's not, it's a nice to have, right. We can just say, Oh, there's a business that provides this service in your area. Right. It's a way of promoting the app as well. And then bringing awareness to that business. Right. Um, you know, something like that. Um, yeah. And then exclusive offer for subscribers. Okay. Discounts only, um, available through, Describe right? Okay, basically the business can of course still take walking people But you know through the app we can partner with them and say hey when somebody comes and they register on the app to get added Added Discounts, right? Use a dashboard visual summary of spending subscription history and active services, right? Referral commission. So they should have a small earnings. So basically, there's something that I'm thinking about, right, which I think is key for business growth. And let me pitch this to you and see where you can come in from a design perspective, right. So we're looking to do something that for every every subscriber that a user brings, the service provider can give them maybe $1 or $2 for every active subscriber. So I'm not sure how we can design or position it, but it's going to be an agreement between the service provider and then the subscriber. So if I cut my hair, for instance, And I tell the barber to say, Hey, you know, um, and then we, we don't have to make it obvious. Right. But what we can do is we'll say, Oh, earn the, and it's going to be coming from the business side, right? Earn $2 or $1 for every subscriber that you bring. Right. Do you get what I'm trying to say? That way, if the user sees it, blah, oh, you know, say if I have five friends or 10 and I bring them here to use the service, automatically the service provider is going to pay me for those 10 users that I brought. This all ties into the referral program, right? You know, so basically what I'm trying to do is it's not the business or the app that's going to provide the referral service, right? It's going to be the businesses that are registered within that are going to incentivize who brings them businesses, if that makes sense, right? You know, so as a, as a, sorry, would businesses be comfortable doing that? Oh yeah.
+
+48:22 - Sahibzada Hassan Mansoor Bugvi
+Oh yeah, absolutely. Oh yeah.
+
+48:24 - Wale Agbaje
+I mean, they do it every day. Anyway, you know, they pay for promos, they pay for, um, um, all of this stuff that they pay for already anyway. So, um, yeah, you don't think about this. Right.
+
+48:40 - Unidentified Speaker
+Yeah.
+
+48:40 - Wale Agbaje
+And then referral milestone bonuses, um, unlock milestones, you know, every 10, 20, 50, right. Then athlete dashboard. I haven't kind of thought about how these athletes should work, but let's keep this on the back burner. So if you think that there's something that you can think about from an athlete perspective, then let me know. And then we'll build it. Then the boost, uh, If a user refers a provider and helps the provider reach a minimum of 10 subscribers, they earn a one-time bonus. I think it's the same thing that we talked about earlier. So it's pretty much the same as a referral wallet. I think it's this one here. No, I think it's this one here. It's pretty much the same. So all of this stuff is all about earnings and sharing and business. Building business. All right. So let me scroll up here slightly.
+
+49:41 - Sahibzada Hassan Mansoor Bugvi
+Right. Let me see what we've got here.
+
+49:44 - Wale Agbaje
+So application feature design. Let me blow this up a little bit because I think it's tiny. Sign up. Yeah. Feature where service provider can simulate how much they can earn. I think we've discovered it already. This is a pre-sign up page where service providers can toggle and input the cost of their service. System will ask how much the service costs. The system will dynamically show the service providers how much they can earn with 10, 20, 50, 100 subscribers, right? 10 subscribers, 5 subscribers, 10 subscribers, 50 subscribers, right? And then daily subscribers, you know, it just shows them how much they can earn, the earning potential, like the one that we discussed. The design and implementation is aimed at helping businesses that want to sign up, how they can earn the possibility of earning through the subscription model. Right. Even before they sign up, you know, they should have a feature. It should be a fun type feature that they can use. Right. What do we have here? Features, subscribe and save. So basically the idea that I had here is, you know, when you buy a one time, um, product from Amazon, right? You can buy it for $10. But when you want to buy the product every month, Amazon will say, okay, it's not going to be $10 anymore. It's going to be $8 because you're buying it every month. That's the power of subscription, right? You know, so I'm not quite sure how this is going to work from a design perspective, but if you see it on Amazon, it's something that we can use to you know those people that just want to do a one-time subscription right you can look into that so it sounds interesting okay and check that out yeah and then this one new service creation flow redesign and rethink how service providers can create services so basically when a service provider is creating a service it has to be as simple and as seamless as possible and in as less steps as possible which is why I was thinking about the AI thing to help them write descriptions and stuff right but in terms of uploading images right creating a service and also creating the tiers you know so three months six months nine months one year you know those kind of things right has to be as simple and as seamless as possible right you know the user journey for the business has to be top-notch right uh you know which includes image upload flow how providers upload images to the application, the tier pricing, all of that stuff.
+
+52:27 - Sahibzada Hassan Mansoor Bugvi
+So you basically want to make it very, very, very easy for customers to come into the app. Correct. Correct.
+
+52:35 - Wale Agbaje
+Because, you know, if you make it easy for users to come into an app and then use the app, then they wouldn't find it difficult. It makes it easier for them because these businesses, whilst they see the benefits, but the moment they get into the app, right? The moment they get into the app, right? And they see how it's complex, right? Then they run away, you know?
+
+53:04 - Sahibzada Hassan Mansoor Bugvi
+So, yeah. Yeah, that makes sense. Obviously, we need to cure pretty easy because as you mentioned that they're pretty, obviously very, of building out new forms and having them listed on another new platform. So we want to keep it very simple and have them understand how this is actually in itself solving their problems.
+
+53:28 - Wale Agbaje
+Yeah, exactly. I've got four minutes before I need to run. But I think these details, let me just try and run through this quickly. App feature, a feature where business owners can assign tasks to employees via email. You an example of this. You have a garage that you subscribe to, or you have a business that you subscribe to, right? Now, when you subscribe, right, the service provider can have five slots for 5 p.m., right? Because he's actually not doing the work. He's got staff that are going to be doing the work, right? So when they fill in the availability, they'll say, okay, 5 p.m., I've got five slots. Right. So when one person books that slots, there are four slots remaining. If another book, three, if another books, two, until the slot is filled up. Right. Plus that person has five, uh, employees, you can then forward the booking to employee one, employee two, employee three. Yeah. Yeah. So that way, you know, Everybody has what they're doing, basically.
+
+54:42 - Sahibzada Hassan Mansoor Bugvi
+So we'll have the option for users to actually build their staff system out as well, of sorts, so they can sign as well? Yeah, exactly.
+
+54:56 - Wale Agbaje
+So they should be able to assign tasks, not tasks, but subscriptions.
+
+55:01 - Sahibzada Hassan Mansoor Bugvi
+At the same time, it just hit me that, for example, I go to my barber shop it might be only one barber that I trust. If I wanted to get a subscription in that place, I would want to get a subscription to go to only that barber. Yeah, of course. Does the user have that option?
+
+55:24 - Wale Agbaje
+Yeah, the user should have that option. So this is where the booking flow comes in. So when the service provider is creating the availability, there should be a question to how many slots do you have for this service, right? They say five slots, right? Then five slots will be available. But if it's a user that has only one barber, then how many slots do you have available at 5 p.m.? Then they'll select only one. Right? Yeah. Yeah. So I think the remaining user can drag and drop to change their subscription session. I think we've talked about that. Providers will Multiple service or availability session can assign to staff. We've discussed that already. Users can see full service provider availability, right? So they can see their full calendar. It's just a bit like calendar, right? So you know which slot that you want to select. Service provider calendar availability. Create an easy to use service availability design for service providers so that it's easy for them to update. Dynamic calendar view. Showing providers availability. So all of this here, it's about calendaring, right? Availability management, add availability and remove availability. This feature is for service providers to update their availability. You know, if they go on holiday, for instance, they can block sections out so that users don't book it. Yeah, and then to manage services, all the information is in here, right? View subscribers, by service. Service providers will be able to be able to search subscribers for new subscribers. I think these are all pretty much edge cases and pretty self-explanatory. I don't think we need to go over all of these.
+
+57:20 - Sahibzada Hassan Mansoor Bugvi
+Okay. But I think I have a much much better understanding of the app now. I was able to back over the documents but obviously I wasn't able to understand them as better. So yeah, thank you so much for taking over everything. And this is definitely very, very helpful. And I've recorded this call as well. So I'll be referring back to it for any questions that I might have.
+
+57:46 - Wale Agbaje
+Okay, cool. Okay, from my perspective, I will look for that logo. If you guys can also because I think the logo can be improved. If it's something that you guys can redesign, make it better. The theme and the look and feel is blue. Right. I kind of like that, Pawpro, but I think blue still stands out.
+
+58:08 - Sahibzada Hassan Mansoor Bugvi
+I don't know. You can send that over, and we'll do a litmus test of sorts and see what works best. OK. All right. Cool. All right. I will do that. I'll let you go, since I think you have another appointment at 11 o'clock.
+
+58:25 - Wale Agbaje
+Yeah.
+
+58:26 - Sahibzada Hassan Mansoor Bugvi
+But thank you so much for the call. This was very, very productive.
+
+58:31 - Wale Agbaje
+And yeah, let's speak again next week. All right, so we'll speak again next week. If there's any questions that you have. You said you sent me a message.
+
+58:43 - Sahibzada Hassan Mansoor Bugvi
+I don't think I got it. I sent you on Slack.
+
+58:48 - Wale Agbaje
+Have you used Slack before? I have used Slack before.
+
+58:51 - Sahibzada Hassan Mansoor Bugvi
+I sent you on Slack before.
+
+58:52 - Wale Agbaje
+Let me see. I've got my Slack channel here somewhere. Maybe I just need to download it on my phone.
+
+59:03 - Sahibzada Hassan Mansoor Bugvi
+Let me just see quickly.
+
+59:07 - Wale Agbaje
+Okay, Slack, Slack, Slack. It's loading now. Okay, I'll check. I'll check Slack. I have to run now. I'll respond. Now, let me drop you my number, my mobile. I'll text you on WhatsApp as well.
+
+59:31 - Sahibzada Hassan Mansoor Bugvi
+So if at any point, you know, communication drops off, you know, we can reach out to each other on WhatsApp. Okay. Yeah.
+
+59:41 - Wale Agbaje
+So I've just put my number in the chat.
+
+59:45 - Sahibzada Hassan Mansoor Bugvi
+All right.
+
+59:46 - Wale Agbaje
+So you can copy it before we end the call.
+
+59:50 - Unidentified Speaker
+Perfect.
+
+59:50 - Sahibzada Hassan Mansoor Bugvi
+I've had that written down. No problem.
+
+59:53 - Unidentified Speaker
+Okay.
+
+59:54 - Wale Agbaje
+Very productive session, actually. So far, good stuff there. So, yeah, I appreciate it. Perfect. No, no.
+
+1:00:01 - Sahibzada Hassan Mansoor Bugvi
+Thank you so much for the feedback and for the productive call. And yeah, have a nice day.
+
+1:00:08 - Wale Agbaje
+All right.
+
+1:00:09 - Unidentified Speaker
+Cheers.
+
+1:00:09 - Sahibzada Hassan Mansoor Bugvi
+Thanks.
+
+1:00:10 - Unidentified Speaker
+Bye.
+
+1:00:10 - Wale Agbaje
+you and we'll be right back.
+
+1:01:00 - Wale Agbaje
+Silence. Silence.
+
+1:01:39 - Wale Agbaje
+Okay.
+
+1:02:19 - Wale Agbaje
+Well done. Bye-bye.

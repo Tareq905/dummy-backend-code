@@ -1,0 +1,52 @@
+SKRHYB (Wale) <> Tecaudex (Sarmad)
+Fri, Jul 4, 2025
+
+Summary:
+
+The discussion focused on the project workflow and delivery strategy, with Wale Agbaje emphasizing the need for a clear understanding of the end-to-end process. Areej Shamshad presented the project proposal, outlining key features such as service discovery, booking, and subscription management. Sarmad Mansoor sought clarification on the design requirements for both the admin panel and the business dashboard, leading to an agreement that the admin dashboard should remain basic while the business dashboard requires customization. The team acknowledged the need for further discussions to finalize the proposal.
+
+Areej provided project estimates, indicating 113 hours for UI design, while Sarmad detailed the organization of the project into 12 or 13 two-week milestones, with a transparent payment structure. He noted that developing separate admin and user apps would increase estimates by 5% to 10%. Wale highlighted the importance of having a product ready for the upcoming Web Summit, suggesting an extended maintenance period.
+
+Sarmad confirmed a new hourly rate of $30 and discussed the project timeline, indicating a mobilization period of 7 to 10 days. Next steps included sharing an updated proposal that references previous documents and conducting competitor research for market validation in the UK and other specified regions. Wale expressed satisfaction with the approach and emphasized the need for timely execution.
+
+
+Chapters & Topics:
+
+Project Proposal Discussion
+Wale Agbaje outlined the need for a two-part delivery approach for the project, focusing on design and deployment. Areej Shamshad presented the project proposal, which included estimates and key features of the app, while Sarmad Mansoor clarified the requirements for both the business and admin dashboards. Wale highlighted the necessity of a separate dashboard for service providers to track subscriptions and earnings.
+* Design requirements and user experience
+* Project proposal and feature coverage
+
+Project Estimates and Development Milestones Discussion
+Areej Shamshad outlined the project estimates, specifying 113 hours for UI design that encompasses various features, including a business dashboard and consumer app functionalities. Sarmad Mansoor discussed the project’s structure, indicating that it would be divided into 12 or 13 two-week milestones, with payments made after the delivery of each pair of milestones. He also clarified that if the application is split into separate admin and user apps, the estimates would increase by 5% to 10%.
+* Project timeline and milestones
+
+Discussion on Product Development Timeline and Web Summit Strategy
+Wale Agbaje requested an extension of the maintenance period to six months and stressed the need for a ready-to-market product for the next Web Summit. He believes that showcasing the partnership at the event would be beneficial. Sarmad Mansoor responded that the product development timeline is estimated at six to seven months, which raised concerns about meeting the Web Summit deadline.
+
+Pricing and Project Development Discussion
+Sarmad Mansoor communicated an updated hourly rate of $30, effective July 1, and discussed maintenance terms, offering an extension to four months. Wale Agbaje expressed his agreement with the proposal and requested a document for review, emphasizing the importance of aligning it with the requirements document. 
+
+Next Steps and Market Validation Discussion
+Sarmad Mansoor detailed the next steps, which involve sharing an updated proposal with Wale Agbaje and confirming that all requirements are met. Wale requested the inclusion of a clause in the proposal regarding previously sent documents and sought assistance with market validation in the UK, Qatar, UAE, and Saudi Arabia. Sarmad mentioned that their design team would conduct research on competitors to provide clarity on the product.
+* Market validation for different regions
+
+
+Action Items:
+
+* Sarmad Mansoor will discuss with the technical team whether to proceed with one super app or separate applications for different stakeholders.
+* Areej will share the updated proposal document with Wale Agbaje after the meeting.
+* Sarmad Mansoor will provide a free complimentary quality assurance for the application.
+* Sarmad Mansoor will ensure that the proposal includes a clause stating that the requirements document sent by Wale Agbaje is included in the proposal.
+* Areej Shamshad will include market validation for the UK, Qatar, United Arab Emirates, and Saudi Arabia in the proposal.
+
+
+Key Questions:
+
+* Is it possible to extend the maintenance period beyond three months?
+* Will the project be ready in time for the Qatar Web Summit?
+
+
+Notepad:
+
+* No notes
